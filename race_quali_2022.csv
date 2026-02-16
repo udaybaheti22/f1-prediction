@@ -1,0 +1,441 @@
+raceId,Track,Team,kaggle_driver_id,Position,participated_q2,participated_q3,q1_time_sec,q2_time_sec,q3_time_sec
+1074,Bahrain,Ferrari,844,1,1,1,91.471,90.932,90.55799999999999
+1074,Bahrain,Red Bull Racing RBPT,830,2,1,1,91.785,90.757,90.681
+1074,Bahrain,Ferrari,832,3,1,1,91.56700000000001,90.787,90.687
+1074,Bahrain,Red Bull Racing RBPT,815,4,1,1,92.311,91.008,90.92099999999999
+1074,Bahrain,Mercedes,1,5,1,1,92.285,91.048,91.238
+1074,Bahrain,Alfa Romeo Ferrari,822,6,1,1,91.919,91.717,91.56
+1074,Bahrain,Haas Ferrari,825,7,1,1,91.955,91.461,91.80799999999999
+1074,Bahrain,Alpine Renault,4,8,1,1,92.346,91.621,92.195
+1074,Bahrain,Mercedes,847,9,1,1,92.269,91.252,92.21600000000001
+1074,Bahrain,AlphaTauri RBPT,842,10,1,1,92.096,91.635,92.338
+1074,Bahrain,Alpine Renault,839,11,1,0,92.041,91.782,
+1074,Bahrain,Haas Ferrari,854,12,1,0,92.38,91.998,
+1074,Bahrain,McLaren Mercedes,846,13,1,0,92.239,92.00800000000001,
+1074,Bahrain,Williams Mercedes,848,14,1,0,92.726,92.664,
+1074,Bahrain,Alfa Romeo Ferrari,855,15,1,0,92.493,93.543,
+1074,Bahrain,AlphaTauri RBPT,852,16,0,0,92.75,,
+1074,Bahrain,Aston Martin Aramco Mercedes,807,17,0,0,92.777,,
+1074,Bahrain,McLaren Mercedes,817,18,0,0,92.945,,
+1074,Bahrain,Aston Martin Aramco Mercedes,840,19,0,0,93.032,,
+1074,Bahrain,Williams Mercedes,849,20,0,0,93.634,,
+1075,Saudi Arabia,Red Bull Racing RBPT,815,1,1,1,89.705,88.924,88.2
+1075,Saudi Arabia,Ferrari,844,2,1,1,89.039,88.78,88.225
+1075,Saudi Arabia,Ferrari,832,3,1,1,88.855,88.68860000000001,88.402
+1075,Saudi Arabia,Red Bull Racing RBPT,830,4,1,1,88.928,88.945,88.461
+1075,Saudi Arabia,Alpine Renault,839,5,1,1,90.093,89.584,89.068
+1075,Saudi Arabia,Mercedes,847,6,1,1,89.68,89.618,89.104
+1075,Saudi Arabia,Alpine Renault,4,7,1,1,89.97800000000001,89.295,89.14699999999999
+1075,Saudi Arabia,Alfa Romeo Ferrari,822,8,1,1,89.68299999999999,89.404,89.18299999999999
+1075,Saudi Arabia,AlphaTauri RBPT,842,9,1,1,89.89099999999999,89.418,89.254
+1075,Saudi Arabia,Haas Ferrari,825,10,1,1,89.831,89.54599999999999,89.588
+1075,Saudi Arabia,McLaren Mercedes,846,11,1,0,89.957,89.651,
+1075,Saudi Arabia,McLaren Mercedes,817,12,1,0,90.009,89.773,
+1075,Saudi Arabia,Alfa Romeo Ferrari,855,13,1,0,89.97800000000001,89.819,
+1075,Saudi Arabia,Haas Ferrari,854,14,1,0,90.167,89.92,
+1075,Saudi Arabia,Aston Martin Aramco Mercedes,840,15,1,0,90.256,91.009,
+1075,Saudi Arabia,Mercedes,1,16,0,0,90.343,,
+1075,Saudi Arabia,Williams Mercedes,848,17,0,0,90.492,,
+1075,Saudi Arabia,Aston Martin Aramco Mercedes,807,18,0,0,90.543,,
+1075,Saudi Arabia,Williams Mercedes,849,19,0,0,91.81700000000001,,
+1075,Saudi Arabia,AlphaTauri RBPT,852,NC,0,0,,,
+1076,Australia,Ferrari,844,1,1,1,78.881,78.606,77.868
+1076,Australia,Red Bull Racing RBPT,830,2,1,1,5260.0,78.611,78.154
+1076,Australia,Red Bull Racing RBPT,815,3,1,1,78.834,78.34,78.24
+1076,Australia,McLaren Mercedes,846,4,1,1,79.28,79.066,78.703
+1076,Australia,Mercedes,1,5,1,1,79.401,79.106,78.825
+1076,Australia,Mercedes,847,6,1,1,79.405,79.076,78.93299999999999
+1076,Australia,McLaren Mercedes,817,7,1,1,79.66499999999999,79.13,79.032
+1076,Australia,Alpine Renault,839,8,1,1,79.605,79.136,79.061
+1076,Australia,Ferrari,832,9,1,1,78.983,78.469,79.408
+1076,Australia,Alpine Renault,4,10,1,1,79.19200000000001,78.815,
+1076,Australia,AlphaTauri RBPT,842,11,1,0,79.58,79.226,
+1076,Australia,Alfa Romeo Ferrari,822,12,1,0,79.251,79.41,
+1076,Australia,AlphaTauri RBPT,852,13,1,0,79.742,79.424,
+1076,Australia,Alfa Romeo Ferrari,855,14,1,0,79.91,80.155,
+1076,Australia,Haas Ferrari,854,15,1,0,80.104,80.465,
+1076,Australia,Williams Mercedes,848,NC,0,0,80.135,,
+1076,Australia,Haas Ferrari,825,16,0,0,80.254,,
+1076,Australia,Aston Martin Aramco Mercedes,20,17,0,0,81.149,,
+1076,Australia,Williams Mercedes,849,18,0,0,81.372,,
+1076,Australia,Aston Martin Aramco Mercedes,840,NC,0,0,,,
+1077,Emilia Romagna,Red Bull Racing RBPT,830,1,1,1,79.295,78.793,87.999
+1077,Emilia Romagna,Ferrari,844,2,1,1,78.79599999999999,79.584,88.77799999999999
+1077,Emilia Romagna,McLaren Mercedes,846,3,1,1,80.168,79.294,89.131
+1077,Emilia Romagna,Haas Ferrari,825,4,1,1,80.14699999999999,79.902,89.164
+1077,Emilia Romagna,Alpine Renault,4,5,1,1,80.19800000000001,79.595,89.202
+1077,Emilia Romagna,McLaren Mercedes,817,6,1,1,79.98,80.031,89.742
+1077,Emilia Romagna,Red Bull Racing RBPT,815,7,1,1,79.773,79.29599999999999,89.80799999999999
+1077,Emilia Romagna,Alfa Romeo Ferrari,822,8,1,1,80.419,80.19200000000001,90.439
+1077,Emilia Romagna,Aston Martin Aramco Mercedes,20,9,1,1,80.364,79.957,91.062
+1077,Emilia Romagna,Ferrari,832,10,1,0,79.305,78.99,
+1077,Emilia Romagna,Mercedes,847,11,1,0,80.383,80.757,
+1077,Emilia Romagna,Haas Ferrari,854,12,1,0,80.422,80.916,
+1077,Emilia Romagna,Mercedes,1,13,1,0,80.47,81.138,
+1077,Emilia Romagna,Alfa Romeo Ferrari,855,14,1,0,79.37,81.434,
+1077,Emilia Romagna,Aston Martin Aramco Mercedes,840,15,1,0,80.342,88.119,
+1077,Emilia Romagna,AlphaTauri RBPT,852,16,0,0,80.474,,
+1077,Emilia Romagna,AlphaTauri RBPT,842,17,0,0,80.732,,
+1077,Emilia Romagna,Williams Mercedes,849,18,0,0,81.971,,
+1077,Emilia Romagna,Alpine Renault,839,19,0,0,82.338,,
+1077,Emilia Romagna,Williams Mercedes,848,NC,0,0,,,
+1078,Miami,Ferrari,844,1,1,1,89.474,89.13,88.79599999999999
+1078,Miami,Ferrari,832,2,1,1,90.07900000000001,89.729,88.986
+1078,Miami,Red Bull Racing RBPT,830,3,1,1,88.836,89.202,88.991
+1078,Miami,Red Bull Racing RBPT,815,4,1,1,90.055,89.673,89.036
+1078,Miami,Alfa Romeo Ferrari,822,5,1,1,90.845,89.751,89.475
+1078,Miami,Mercedes,1,6,1,1,90.388,89.797,89.625
+1078,Miami,AlphaTauri RBPT,842,7,1,1,90.779,90.128,89.69
+1078,Miami,McLaren Mercedes,846,8,1,1,90.761,89.634,89.75
+1078,Miami,AlphaTauri RBPT,852,9,1,1,90.485,90.031,89.932
+1078,Miami,Aston Martin Aramco Mercedes,840,10,1,1,90.441,89.996,90.676
+1078,Miami,Alpine Renault,4,11,1,0,90.407,90.16,
+1078,Miami,Mercedes,847,12,1,0,90.49,90.173,
+1078,Miami,Aston Martin Aramco Mercedes,20,13,1,0,90.67699999999999,90.214,
+1078,Miami,McLaren Mercedes,817,14,1,0,90.583,90.31,
+1078,Miami,Haas Ferrari,854,15,1,0,90.645,90.423,
+1078,Miami,Haas Ferrari,825,16,0,0,90.975,,
+1078,Miami,Alfa Romeo Ferrari,855,17,0,0,91.02,,
+1078,Miami,Williams Mercedes,848,18,0,0,91.26599999999999,,
+1078,Miami,Williams Mercedes,849,19,0,0,91.325,,
+1078,Miami,Alpine Renault,839,NC,0,0,,,
+1079,Spain,Ferrari,844,1,1,1,79.861,79.969,78.75
+1079,Spain,Red Bull Racing RBPT,830,2,1,1,80.09100000000001,79.219,79.07300000000001
+1079,Spain,Ferrari,832,3,1,1,79.892,79.453,79.166
+1079,Spain,Mercedes,847,4,1,1,80.218,79.47,79.393
+1079,Spain,Red Bull Racing RBPT,815,5,1,1,80.447,79.83,79.42
+1079,Spain,Mercedes,1,6,1,1,80.252,79.794,79.512
+1079,Spain,Alfa Romeo Ferrari,822,7,1,1,80.355,80.053,79.608
+1079,Spain,Haas Ferrari,825,8,1,1,80.227,79.81,79.682
+1079,Spain,McLaren Mercedes,817,9,1,1,80.549,80.287,80.297
+1079,Spain,Haas Ferrari,854,10,1,1,80.68299999999999,80.436,80.368
+1079,Spain,McLaren Mercedes,846,11,1,0,80.838,80.471,
+1079,Spain,Alpine Renault,839,12,1,0,80.88,80.638,
+1079,Spain,AlphaTauri RBPT,852,13,1,0,80.707,80.639,
+1079,Spain,AlphaTauri RBPT,842,14,1,0,80.719,80.861,
+1079,Spain,Alfa Romeo Ferrari,855,15,1,0,80.476,81.094,
+1079,Spain,Aston Martin Aramco Mercedes,20,16,0,0,80.95400000000001,,
+1079,Spain,Alpine Renault,4,17,0,0,81.043,,
+1079,Spain,Aston Martin Aramco Mercedes,840,18,0,0,81.418,,
+1079,Spain,Williams Mercedes,848,19,0,0,81.645,,
+1079,Spain,Williams Mercedes,849,20,0,0,81.91499999999999,,
+1080,Monaco,Ferrari,844,1,1,1,72.569,71.864,71.376
+1080,Monaco,Ferrari,832,2,1,1,72.616,72.074,71.601
+1080,Monaco,Red Bull Racing RBPT,815,3,1,1,73.004,71.95400000000001,71.629
+1080,Monaco,Red Bull Racing RBPT,830,4,1,1,72.993,72.117,71.666
+1080,Monaco,McLaren Mercedes,846,5,1,1,72.92699999999999,72.266,71.849
+1080,Monaco,Mercedes,847,6,1,1,72.787,72.617,72.112
+1080,Monaco,Alpine Renault,4,7,1,1,73.394,72.688,72.247
+1080,Monaco,Mercedes,1,8,1,1,73.444,72.595,72.56
+1080,Monaco,Aston Martin Aramco Mercedes,20,9,1,1,73.313,72.613,72.732
+1080,Monaco,Alpine Renault,839,10,1,1,72.848,72.528,73.047
+1080,Monaco,AlphaTauri RBPT,852,11,1,0,73.11,72.797,
+1080,Monaco,Alfa Romeo Ferrari,822,12,1,0,73.541,72.909,
+1080,Monaco,Haas Ferrari,825,13,1,0,73.069,72.92099999999999,
+1080,Monaco,McLaren Mercedes,817,14,1,0,73.338,72.964,
+1080,Monaco,Haas Ferrari,854,15,1,0,73.469,73.081,
+1080,Monaco,Williams Mercedes,848,16,0,0,73.611,,
+1080,Monaco,AlphaTauri RBPT,842,17,0,0,73.66,,
+1080,Monaco,Aston Martin Aramco Mercedes,840,18,0,0,73.678,,
+1080,Monaco,Williams Mercedes,849,19,0,0,74.403,,
+1080,Monaco,Alfa Romeo Ferrari,855,20,0,0,75.606,,
+1081,Azerbaijan,Ferrari,844,1,1,1,102.86500000000001,102.04599999999999,101.35900000000001
+1081,Azerbaijan,Red Bull Racing RBPT,815,2,1,1,102.733,101.955,101.64099999999999
+1081,Azerbaijan,Red Bull Racing RBPT,830,3,1,1,102.72200000000001,102.227,101.706
+1081,Azerbaijan,Ferrari,832,4,1,1,102.957,102.088,101.814
+1081,Azerbaijan,Mercedes,847,5,1,1,103.75399999999999,103.281,102.712
+1081,Azerbaijan,AlphaTauri RBPT,842,6,1,1,103.268,103.12899999999999,102.845
+1081,Azerbaijan,Mercedes,1,7,1,1,103.939,103.182,102.924
+1081,Azerbaijan,AlphaTauri RBPT,852,8,1,1,103.595,103.376,103.056
+1081,Azerbaijan,Aston Martin Aramco Mercedes,20,9,1,1,103.279,103.268,103.09100000000001
+1081,Azerbaijan,Alpine Renault,4,10,1,1,104.083,103.36,103.173
+1081,Azerbaijan,McLaren Mercedes,846,11,1,0,104.237,103.398,
+1081,Azerbaijan,McLaren Mercedes,817,12,1,0,104.437,103.574,
+1081,Azerbaijan,Alpine Renault,839,13,1,0,103.90299999999999,103.58500000000001,
+1081,Azerbaijan,Alfa Romeo Ferrari,855,14,1,0,103.777,103.78999999999999,
+1081,Azerbaijan,Alfa Romeo Ferrari,822,15,1,0,104.47800000000001,104.444,
+1081,Azerbaijan,Haas Ferrari,825,16,0,0,104.643,,
+1081,Azerbaijan,Williams Mercedes,848,17,0,0,104.719,,
+1081,Azerbaijan,Williams Mercedes,849,18,0,0,105.36699999999999,,
+1081,Azerbaijan,Aston Martin Aramco Mercedes,840,19,0,0,105.37100000000001,,
+1081,Azerbaijan,Haas Ferrari,854,20,0,0,105.775,,
+1082,Canada,Red Bull Racing RBPT,830,1,1,1,92.219,83.746,81.299
+1082,Canada,Alpine Renault,4,2,1,1,92.277,84.848,81.944
+1082,Canada,Ferrari,832,3,1,1,92.781,85.197,82.096
+1082,Canada,Mercedes,1,4,1,1,93.84100000000001,85.543,82.89099999999999
+1082,Canada,Haas Ferrari,825,5,1,1,92.957,86.254,82.96000000000001
+1082,Canada,Haas Ferrari,854,6,1,1,93.707,85.684,83.356
+1082,Canada,Alpine Renault,839,7,1,1,93.012,86.135,83.529
+1082,Canada,Mercedes,847,8,1,1,93.16,84.95,83.557
+1082,Canada,McLaren Mercedes,817,9,1,1,93.636,86.375,83.749
+1082,Canada,Alfa Romeo Ferrari,855,10,1,1,93.69200000000001,86.116,84.03
+1082,Canada,Alfa Romeo Ferrari,822,11,1,0,93.689,86.788,
+1082,Canada,Williams Mercedes,848,12,1,0,94.047,86.858,
+1082,Canada,Red Bull Racing RBPT,815,13,1,0,93.929,93.12700000000001,
+1082,Canada,McLaren Mercedes,846,14,1,0,94.066,,
+1082,Canada,Ferrari,844,15,0,0,93.00800000000001,,
+1082,Canada,AlphaTauri RBPT,842,16,0,0,94.49199999999999,,
+1082,Canada,Aston Martin Aramco Mercedes,20,17,0,0,94.512,,
+1082,Canada,Aston Martin Aramco Mercedes,840,18,0,0,95.532,,
+1082,Canada,Williams Mercedes,849,19,0,0,95.66,,
+1082,Canada,AlphaTauri RBPT,852,20,0,0,96.575,,
+1083,Great Britain,Ferrari,832,1,1,1,100.19,101.602,100.983
+1083,Great Britain,Red Bull Racing RBPT,830,2,1,1,99.12899999999999,100.655,101.055
+1083,Great Britain,Ferrari,844,3,1,1,99.846,101.247,101.298
+1083,Great Britain,Red Bull Racing RBPT,815,4,1,1,100.521,102.513,101.616
+1083,Great Britain,Mercedes,1,5,1,1,100.428,101.062,101.995
+1083,Great Britain,McLaren Mercedes,846,6,1,1,101.515,101.821,102.084
+1083,Great Britain,Alpine Renault,4,7,1,1,101.598,102.209,102.116
+1083,Great Britain,Mercedes,847,8,1,1,100.02799999999999,101.725,102.161
+1083,Great Britain,Alfa Romeo Ferrari,855,9,1,1,100.791,102.64,102.719
+1083,Great Britain,Williams Mercedes,849,10,1,1,101.99799999999999,103.273,123.095
+1083,Great Britain,AlphaTauri RBPT,842,11,1,0,101.68,103.702,
+1083,Great Britain,Alfa Romeo Ferrari,822,12,1,0,101.396,104.232,
+1083,Great Britain,AlphaTauri RBPT,852,13,1,0,101.893,104.311,
+1083,Great Britain,McLaren Mercedes,817,14,1,0,101.93299999999999,104.35499999999999,
+1083,Great Britain,Alpine Renault,839,15,1,0,101.72999999999999,105.19,
+1083,Great Britain,Williams Mercedes,848,16,0,0,102.078,,
+1083,Great Britain,Haas Ferrari,825,17,0,0,102.15899999999999,,
+1083,Great Britain,Aston Martin Aramco Mercedes,20,18,0,0,102.666,,
+1083,Great Britain,Haas Ferrari,854,19,0,0,102.708,,
+1083,Great Britain,Aston Martin Aramco Mercedes,840,20,0,0,103.43,,
+1084,Austria,Red Bull Racing RBPT,830,1,1,1,65.852,65.374,64.984
+1084,Austria,Ferrari,844,2,1,1,65.419,65.287,65.013
+1084,Austria,Ferrari,832,3,1,1,65.66,65.576,65.066
+1084,Austria,Mercedes,847,4,1,1,66.235,65.697,65.431
+1084,Austria,Alpine Renault,839,5,1,1,66.468,65.993,65.726
+1084,Austria,Haas Ferrari,825,6,1,1,66.366,65.894,65.879
+1084,Austria,Haas Ferrari,854,7,1,1,66.405,66.151,66.011
+1084,Austria,Alpine Renault,4,8,1,1,66.016,66.082,66.103
+1084,Austria,Mercedes,1,9,1,1,66.079,65.475,73.151
+1084,Austria,AlphaTauri RBPT,842,10,1,0,66.589,66.16,
+1084,Austria,Williams Mercedes,848,11,1,0,66.516,66.23,
+1084,Austria,Alfa Romeo Ferrari,822,12,1,0,66.44200000000001,66.319,
+1084,Austria,Red Bull Racing RBPT,815,13,1,0,66.143,66.458,
+1084,Austria,AlphaTauri RBPT,852,14,1,0,66.463,66.851,
+1084,Austria,McLaren Mercedes,846,15,1,0,66.33,85.84700000000001,
+1084,Austria,McLaren Mercedes,817,16,0,0,66.613,,
+1084,Austria,Aston Martin Aramco Mercedes,840,17,0,0,66.847,,
+1084,Austria,Alfa Romeo Ferrari,855,18,0,0,66.901,,
+1084,Austria,Williams Mercedes,849,19,0,0,67.003,,
+1084,Austria,Aston Martin Aramco Mercedes,20,20,0,0,67.083,,
+1085,France,Ferrari,844,1,1,1,91.727,91.21600000000001,90.872
+1085,France,Red Bull Racing RBPT,830,2,1,1,91.89099999999999,91.99,91.176
+1085,France,Red Bull Racing RBPT,815,3,1,1,92.354,92.12,91.33500000000001
+1085,France,Mercedes,1,4,1,1,93.041,92.274,91.765
+1085,France,McLaren Mercedes,846,5,1,1,92.672,92.777,92.032
+1085,France,Mercedes,847,6,1,1,93.10900000000001,92.63300000000001,92.131
+1085,France,Alpine Renault,4,7,1,1,92.819,92.631,92.55199999999999
+1085,France,AlphaTauri RBPT,852,8,1,1,93.394,92.836,92.78
+1085,France,Ferrari,832,9,1,1,92.297,91.081,
+1085,France,Haas Ferrari,825,10,1,0,92.756,92.649,
+1085,France,McLaren Mercedes,817,11,1,0,93.404,92.922,
+1085,France,Alpine Renault,839,12,1,0,93.346,93.048,
+1085,France,Alfa Romeo Ferrari,822,13,1,0,93.03399999999999,93.05199999999999,
+1085,France,Aston Martin Aramco Mercedes,20,14,1,0,93.285,93.27600000000001,
+1085,France,Williams Mercedes,848,15,1,0,93.423,93.307,
+1085,France,AlphaTauri RBPT,842,16,0,0,93.439,,
+1085,France,Aston Martin Aramco Mercedes,840,17,0,0,93.439,,
+1085,France,Alfa Romeo Ferrari,855,18,0,0,93.674,,
+1085,France,Haas Ferrari,854,19,0,0,93.701,,
+1085,France,Williams Mercedes,849,20,0,0,93.794,,
+1086,Hungary,Mercedes,847,1,1,1,78.407,78.154,77.377
+1086,Hungary,Ferrari,832,2,1,1,78.434,77.946,77.42099999999999
+1086,Hungary,Ferrari,844,3,1,1,78.806,77.768,77.56700000000001
+1086,Hungary,McLaren Mercedes,846,4,1,1,78.65299999999999,78.121,77.769
+1086,Hungary,Alpine Renault,839,5,1,1,78.866,78.21600000000001,78.018
+1086,Hungary,Alpine Renault,4,6,1,1,78.71600000000001,77.904,78.078
+1086,Hungary,Mercedes,1,7,1,1,78.374,78.035,78.142
+1086,Hungary,Alfa Romeo Ferrari,822,8,1,1,78.935,78.445,78.157
+1086,Hungary,McLaren Mercedes,817,9,1,1,78.775,78.19800000000001,78.379
+1086,Hungary,Red Bull Racing RBPT,830,10,1,1,78.509,77.703,78.82300000000001
+1086,Hungary,Red Bull Racing RBPT,815,11,1,0,79.118,78.51599999999999,
+1086,Hungary,Alfa Romeo Ferrari,855,12,1,0,78.973,78.57300000000001,
+1086,Hungary,Haas Ferrari,825,13,1,0,78.993,78.825,
+1086,Hungary,Aston Martin Aramco Mercedes,840,14,1,0,79.205,79.137,
+1086,Hungary,Haas Ferrari,854,15,1,0,79.164,79.202,
+1086,Hungary,AlphaTauri RBPT,852,16,0,0,79.24,,
+1086,Hungary,Williams Mercedes,848,17,0,0,79.256,,
+1086,Hungary,Aston Martin Aramco Mercedes,20,18,0,0,79.273,,
+1086,Hungary,AlphaTauri RBPT,842,19,0,0,79.527,,
+1086,Hungary,Williams Mercedes,849,20,0,0,79.57,,
+1087,Belgium,Red Bull Racing RBPT,830,1,1,1,104.581,104.723,103.66499999999999
+1087,Belgium,Ferrari,832,2,1,1,105.05,105.418,104.297
+1087,Belgium,Red Bull Racing RBPT,815,3,1,1,105.37700000000001,104.794,104.462
+1087,Belgium,Ferrari,844,4,1,1,105.572,104.551,104.553
+1087,Belgium,Alpine Renault,839,5,1,1,106.039,105.475,105.18
+1087,Belgium,Alpine Renault,4,6,1,1,106.075,105.55199999999999,105.368
+1087,Belgium,Mercedes,1,7,1,1,105.73599999999999,105.42,105.503
+1087,Belgium,Mercedes,847,8,1,1,105.65,105.461,105.77600000000001
+1087,Belgium,Williams Mercedes,848,9,1,1,105.672,105.675,105.837
+1087,Belgium,McLaren Mercedes,846,10,1,1,105.745,105.60300000000001,106.178
+1087,Belgium,McLaren Mercedes,817,11,1,0,106.212,105.767,
+1087,Belgium,AlphaTauri RBPT,842,12,1,0,106.18299999999999,105.827,
+1087,Belgium,Alfa Romeo Ferrari,855,13,1,0,106.178,106.08500000000001,
+1087,Belgium,Aston Martin Aramco Mercedes,840,14,1,0,106.256,106.61099999999999,
+1087,Belgium,Haas Ferrari,854,15,1,0,106.342,107.718,
+1087,Belgium,Aston Martin Aramco Mercedes,20,16,0,0,106.344,,
+1087,Belgium,Williams Mercedes,849,17,0,0,106.40100000000001,,
+1087,Belgium,Haas Ferrari,825,18,0,0,106.557,,
+1087,Belgium,AlphaTauri RBPT,852,19,0,0,106.69200000000001,,
+1087,Belgium,Alfa Romeo Ferrari,822,20,0,0,107.866,,
+1088,Netherlands,Red Bull Racing RBPT,830,1,1,1,71.31700000000001,70.92699999999999,70.342
+1088,Netherlands,Ferrari,844,2,1,1,71.443,70.988,70.363
+1088,Netherlands,Ferrari,832,3,1,1,71.767,70.814,70.434
+1088,Netherlands,Mercedes,1,4,1,1,71.331,71.075,70.648
+1088,Netherlands,Red Bull Racing RBPT,815,5,1,1,71.641,71.314,71.077
+1088,Netherlands,Mercedes,847,6,1,1,71.561,70.824,71.147
+1088,Netherlands,McLaren Mercedes,846,7,1,1,71.556,71.116,71.174
+1088,Netherlands,Haas Ferrari,854,8,1,1,71.741,71.42,71.44200000000001
+1088,Netherlands,AlphaTauri RBPT,852,9,1,1,71.42699999999999,71.428,72.556
+1088,Netherlands,Aston Martin Aramco Mercedes,840,10,1,0,71.568,71.416,
+1088,Netherlands,AlphaTauri RBPT,842,11,1,0,71.705,71.512,
+1088,Netherlands,Alpine Renault,839,12,1,0,71.748,71.605,
+1088,Netherlands,Alpine Renault,4,13,1,0,71.667,71.613,
+1088,Netherlands,Alfa Romeo Ferrari,855,14,1,0,71.826,71.70400000000001,
+1088,Netherlands,Williams Mercedes,848,15,1,0,71.695,71.80199999999999,
+1088,Netherlands,Alfa Romeo Ferrari,822,16,0,0,71.961,,
+1088,Netherlands,McLaren Mercedes,817,17,0,0,72.081,,
+1088,Netherlands,Haas Ferrari,825,18,0,0,72.319,,
+1088,Netherlands,Aston Martin Aramco Mercedes,20,19,0,0,72.391,,
+1088,Netherlands,Williams Mercedes,849,20,0,0,73.353,,
+1089,Italy,Ferrari,844,1,1,1,81.28,81.208,80.161
+1089,Italy,Red Bull Racing RBPT,830,2,1,1,80.922,81.265,80.306
+1089,Italy,Ferrari,832,3,1,1,81.348,80.878,80.429
+1089,Italy,Red Bull Racing RBPT,815,4,1,1,81.495,81.358,81.206
+1089,Italy,Mercedes,1,5,1,1,82.048,81.708,81.524
+1089,Italy,Mercedes,847,6,1,1,81.785,81.747,81.542
+1089,Italy,McLaren Mercedes,846,7,1,1,82.13,81.831,81.584
+1089,Italy,McLaren Mercedes,817,8,1,1,82.139,81.855,81.925
+1089,Italy,AlphaTauri RBPT,842,9,1,1,82.01,82.062,82.648
+1089,Italy,Alpine Renault,4,10,1,0,82.089,81.861,
+1089,Italy,Alpine Renault,839,11,1,0,82.166,82.13,
+1089,Italy,Alfa Romeo Ferrari,822,12,1,0,82.254,82.235,
+1089,Italy,Williams Mercedes,856,13,1,0,82.56700000000001,82.471,
+1089,Italy,Alfa Romeo Ferrari,855,14,1,0,82.003,82.577,
+1089,Italy,AlphaTauri RBPT,852,15,0,0,82.02,,
+1089,Italy,Williams Mercedes,849,16,0,0,82.587,,
+1089,Italy,Aston Martin Aramco Mercedes,20,17,0,0,82.636,,
+1089,Italy,Aston Martin Aramco Mercedes,840,18,0,0,82.748,,
+1089,Italy,Haas Ferrari,825,19,0,0,82.908,,
+1089,Italy,Haas Ferrari,854,20,0,0,83.005,,
+1091,Singapore,Ferrari,844,1,1,1,114.12899999999999,112.343,109.412
+1091,Singapore,Red Bull Racing RBPT,815,2,1,1,114.404,112.818,109.434
+1091,Singapore,Mercedes,1,3,1,1,113.161,112.691,109.46600000000001
+1091,Singapore,Ferrari,832,4,1,1,114.559,113.219,109.583
+1091,Singapore,Alpine Renault,4,5,1,1,115.36,113.12700000000001,109.96600000000001
+1091,Singapore,McLaren Mercedes,846,6,1,1,115.914,113.94200000000001,110.584
+1091,Singapore,AlphaTauri RBPT,842,7,1,1,115.606,113.54599999999999,111.211
+1091,Singapore,Red Bull Racing RBPT,830,8,1,1,113.057,112.723,111.39500000000001
+1091,Singapore,Haas Ferrari,825,9,1,1,115.10300000000001,114.006,111.57300000000001
+1091,Singapore,AlphaTauri RBPT,852,10,1,1,115.314,113.848,111.983
+1091,Singapore,Mercedes,847,11,1,0,114.63300000000001,114.012,
+1091,Singapore,Aston Martin Aramco Mercedes,840,12,1,0,115.62899999999999,114.211,
+1091,Singapore,Haas Ferrari,854,13,1,0,115.73599999999999,114.37,
+1091,Singapore,Aston Martin Aramco Mercedes,20,14,1,0,115.602,114.38,
+1091,Singapore,Alfa Romeo Ferrari,855,15,1,0,115.375,115.518,
+1091,Singapore,Alfa Romeo Ferrari,822,16,0,0,116.083,,
+1091,Singapore,McLaren Mercedes,817,17,0,0,116.226,,
+1091,Singapore,Alpine Renault,839,18,0,0,116.337,,
+1091,Singapore,Williams Mercedes,848,19,0,0,116.985,,
+1091,Singapore,Williams Mercedes,849,20,0,0,117.532,,
+1092,Japan,Red Bull Racing RBPT,830,1,1,1,90.224,90.346,89.304
+1092,Japan,Ferrari,844,2,1,1,90.402,90.486,89.314
+1092,Japan,Ferrari,832,3,1,1,90.336,90.444,89.361
+1092,Japan,Red Bull Racing RBPT,815,4,1,1,90.622,89.25,89.709
+1092,Japan,Alpine Renault,839,5,1,1,90.696,90.357,90.16499999999999
+1092,Japan,Mercedes,1,6,1,1,90.906,90.443,90.261
+1092,Japan,Alpine Renault,4,7,1,1,90.60300000000001,90.343,90.322
+1092,Japan,Mercedes,847,8,1,1,90.865,90.465,90.389
+1092,Japan,Aston Martin Aramco Mercedes,20,9,1,1,91.256,90.656,90.554
+1092,Japan,McLaren Mercedes,846,10,1,1,90.881,90.473,91.003
+1092,Japan,McLaren Mercedes,817,11,1,0,90.88,90.65899999999999,
+1092,Japan,Alfa Romeo Ferrari,822,12,1,0,91.226,90.709,
+1092,Japan,AlphaTauri RBPT,852,13,1,0,91.13,90.80799999999999,
+1092,Japan,Alfa Romeo Ferrari,855,14,1,0,90.894,90.953,
+1092,Japan,Haas Ferrari,854,15,1,0,91.152,91.439,
+1092,Japan,Williams Mercedes,848,16,0,0,91.311,,
+1092,Japan,AlphaTauri RBPT,842,17,0,0,91.322,,
+1092,Japan,Haas Ferrari,825,18,0,0,91.352,,
+1092,Japan,Aston Martin Aramco Mercedes,840,19,0,0,91.419,,
+1092,Japan,Williams Mercedes,849,20,0,0,91.511,,
+1093,United States,Ferrari,832,1,1,1,95.297,95.59,94.356
+1093,United States,Ferrari,844,2,1,1,95.795,95.24600000000001,94.42099999999999
+1093,United States,Red Bull Racing RBPT,830,3,1,1,95.864,95.294,94.44800000000001
+1093,United States,Red Bull Racing RBPT,815,4,1,1,96.163,95.864,94.64500000000001
+1093,United States,Mercedes,1,5,1,1,96.148,95.732,94.947
+1093,United States,Mercedes,847,6,1,1,96.195,95.69200000000001,94.988
+1093,United States,Aston Martin Aramco Mercedes,840,7,1,1,96.86,96.032,95.598
+1093,United States,McLaren Mercedes,846,8,1,1,96.465,96.34100000000001,95.69
+1093,United States,Alpine Renault,4,9,1,1,96.446,95.988,95.876
+1093,United States,Alfa Romeo Ferrari,822,10,1,1,96.74600000000001,96.321,96.319
+1093,United States,Williams Mercedes,848,11,1,0,96.922,96.368,
+1093,United States,Aston Martin Aramco Mercedes,20,12,1,0,96.995,96.398,
+1093,United States,AlphaTauri RBPT,842,13,1,0,96.577,96.74000000000001,
+1093,United States,Alfa Romeo Ferrari,855,14,1,0,96.656,96.97,
+1093,United States,AlphaTauri RBPT,852,15,1,0,96.80799999999999,97.14699999999999,
+1093,United States,Haas Ferrari,825,16,0,0,96.949,,
+1093,United States,McLaren Mercedes,817,17,0,0,97.04599999999999,,
+1093,United States,Alpine Renault,839,18,0,0,97.068,,
+1093,United States,Haas Ferrari,854,19,0,0,97.11099999999999,,
+1093,United States,Williams Mercedes,849,20,0,0,97.244,,
+1094,Mexico,Red Bull Racing RBPT,830,1,1,1,79.22200000000001,78.566,77.775
+1094,Mexico,Mercedes,847,2,1,1,79.583,78.565,78.07900000000001
+1094,Mexico,Mercedes,1,3,1,1,79.169,78.55199999999999,78.084
+1094,Mexico,Red Bull Racing RBPT,815,4,1,1,79.706,78.615,78.128
+1094,Mexico,Ferrari,832,5,1,1,79.566,78.56,78.351
+1094,Mexico,Alfa Romeo Ferrari,822,6,1,1,79.523,78.762,78.401
+1094,Mexico,Ferrari,844,7,1,1,79.505,79.10900000000001,78.555
+1094,Mexico,McLaren Mercedes,846,8,1,1,79.857,79.119,78.721
+1094,Mexico,Alpine Renault,4,9,1,1,80.006,79.27199999999999,78.939
+1094,Mexico,Alpine Renault,839,10,1,1,79.945,79.081,79.01
+1094,Mexico,McLaren Mercedes,817,11,1,0,80.279,79.325,
+1094,Mexico,Alfa Romeo Ferrari,855,12,1,0,80.283,79.476,
+1094,Mexico,AlphaTauri RBPT,852,13,1,0,79.907,79.589,
+1094,Mexico,AlphaTauri RBPT,842,14,1,0,80.256,79.672,
+1094,Mexico,Haas Ferrari,825,15,1,0,80.293,79.833,
+1094,Mexico,Haas Ferrari,854,16,0,0,80.419,,
+1094,Mexico,Aston Martin Aramco Mercedes,20,17,0,0,80.419,,
+1094,Mexico,Aston Martin Aramco Mercedes,840,18,0,0,80.52,,
+1094,Mexico,Williams Mercedes,848,19,0,0,80.85900000000001,,
+1094,Mexico,Williams Mercedes,849,20,0,0,81.167,,
+1095,Brazil,Haas Ferrari,825,1,1,1,73.95400000000001,71.41,71.674
+1095,Brazil,Red Bull Racing RBPT,830,2,1,1,73.625,70.881,71.877
+1095,Brazil,Mercedes,847,3,1,1,74.42699999999999,71.318,72.059
+1095,Brazil,McLaren Mercedes,846,4,1,1,73.106,71.377,72.263
+1095,Brazil,Ferrari,832,5,1,1,5120.0,70.89,72.357
+1095,Brazil,Alpine Renault,839,6,1,1,74.663,71.587,72.425
+1095,Brazil,Alpine Renault,4,7,1,1,73.542,71.394,72.504
+1095,Brazil,Mercedes,1,8,1,1,73.403,71.539,72.611
+1095,Brazil,Red Bull Racing RBPT,815,9,1,1,73.613,71.456,75.601
+1095,Brazil,Ferrari,844,10,1,1,74.486,70.95,
+1095,Brazil,Williams Mercedes,848,11,1,0,74.324,71.631,
+1095,Brazil,AlphaTauri RBPT,842,12,1,0,74.371,71.675,
+1095,Brazil,Aston Martin Aramco Mercedes,20,13,1,0,73.597,71.678,
+1095,Brazil,McLaren Mercedes,817,14,1,0,74.931,72.14,
+1095,Brazil,Aston Martin Aramco Mercedes,840,15,1,0,74.398,72.21000000000001,
+1095,Brazil,Williams Mercedes,849,16,0,0,75.095,,
+1095,Brazil,Alfa Romeo Ferrari,855,17,0,0,75.197,,
+1095,Brazil,Alfa Romeo Ferrari,822,18,0,0,75.486,,
+1095,Brazil,AlphaTauri RBPT,852,19,0,0,76.264,,
+1095,Brazil,Haas Ferrari,854,20,0,0,76.361,,
+1096,Abu Dhabi,Red Bull Racing RBPT,830,1,1,1,84.754,84.622,83.824
+1096,Abu Dhabi,Red Bull Racing RBPT,815,2,1,1,84.82,84.419,84.05199999999999
+1096,Abu Dhabi,Ferrari,844,3,1,1,85.211,84.517,84.092
+1096,Abu Dhabi,Ferrari,832,4,1,1,85.09,84.521,84.242
+1096,Abu Dhabi,Mercedes,1,5,1,1,85.594,84.774,84.508
+1096,Abu Dhabi,Mercedes,847,6,1,1,85.545,84.94,84.511
+1096,Abu Dhabi,McLaren Mercedes,846,7,1,1,85.387,84.90299999999999,84.769
+1096,Abu Dhabi,Alpine Renault,839,8,1,1,85.735,85.007,84.83
+1096,Abu Dhabi,Aston Martin Aramco Mercedes,20,9,1,1,85.523,84.974,84.961
+1096,Abu Dhabi,McLaren Mercedes,817,10,1,1,85.76599999999999,85.068,85.045
+1096,Abu Dhabi,Alpine Renault,4,11,1,0,85.782,85.096,
+1096,Abu Dhabi,AlphaTauri RBPT,852,12,1,0,85.63,85.219,
+1096,Abu Dhabi,Haas Ferrari,854,13,1,0,85.711,85.225,
+1096,Abu Dhabi,Aston Martin Aramco Mercedes,840,14,1,0,85.741,85.35900000000001,
+1096,Abu Dhabi,Alfa Romeo Ferrari,855,15,1,0,85.594,85.408,
+1096,Abu Dhabi,Haas Ferrari,825,16,0,0,85.834,,
+1096,Abu Dhabi,AlphaTauri RBPT,842,17,0,0,85.85900000000001,,
+1096,Abu Dhabi,Alfa Romeo Ferrari,822,18,0,0,85.892,,
+1096,Abu Dhabi,Williams Mercedes,848,19,0,0,86.02799999999999,,
+1096,Abu Dhabi,Williams Mercedes,849,20,0,0,86.054,,
