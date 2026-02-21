@@ -1,121 +1,121 @@
-Track,Position,Team,Starting Grid,kaggle_driver_id,raceId,finished,dnf,laps_down,time_gap_sec
-China,1,Red Bull Racing Honda RBPT,4,830,1077,1.0,0.0,0.0,0.0
-China,2,Mercedes,2,1,1077,1.0,0.0,0.0,13.043
-China,3,Red Bull Racing Honda RBPT,6,815,1077,1.0,0.0,0.0,15.258
-China,4,Ferrari,7,844,1077,1.0,0.0,0.0,17.486
-China,5,Ferrari,5,832,1077,1.0,0.0,0.0,20.696
-China,6,McLaren Mercedes,1,846,1077,1.0,0.0,0.0,22.088
-China,7,McLaren Mercedes,8,857,1077,1.0,0.0,0.0,24.713
-China,8,Mercedes,11,847,1077,1.0,0.0,0.0,25.696
-China,9,Kick Sauber Ferrari,10,855,1077,1.0,0.0,0.0,31.951
-China,10,Haas Ferrari,12,825,1077,1.0,0.0,0.0,37.398
-China,11,RB Honda RBPT,14,817,1077,1.0,0.0,0.0,37.84
-China,12,Kick Sauber Ferrari,9,822,1077,1.0,0.0,0.0,38.295
-China,13,Alpine Renault,17,839,1077,1.0,0.0,0.0,39.841
-China,14,Aston Martin Aramco Mercedes,15,840,1077,1.0,0.0,0.0,40.299
-China,15,Alpine Renault,16,842,1077,1.0,0.0,0.0,40.838
-China,16,RB Honda RBPT,19,852,1077,1.0,0.0,0.0,41.87
-China,17,Williams Mercedes,18,848,1077,1.0,0.0,0.0,42.998
-China,18,Williams Mercedes,20,858,1077,1.0,0.0,0.0,46.352
-China,19,Haas Ferrari,13,807,1077,1.0,0.0,0.0,49.63
-China,20,Aston Martin Aramco Mercedes,3,4,1077,0.0,1.0,,
-Miami,1,Red Bull Racing Honda RBPT,1,830,1077,1.0,0.0,0.0,0.0
-Miami,2,Ferrari,2,844,1077,1.0,0.0,0.0,3.371
-Miami,3,Red Bull Racing Honda RBPT,3,815,1077,1.0,0.0,0.0,5.095
-Miami,4,RB Honda RBPT,4,817,1077,1.0,0.0,0.0,14.971
-Miami,5,Ferrari,5,832,1077,1.0,0.0,0.0,15.222
-Miami,6,McLaren Mercedes,6,857,1077,1.0,0.0,0.0,15.75
-Miami,7,Haas Ferrari,10,807,1077,1.0,0.0,0.0,22.054
-Miami,8,RB Honda RBPT,15,852,1077,1.0,0.0,0.0,29.816
-Miami,9,Alpine Renault,16,842,1077,1.0,0.0,0.0,31.88
-Miami,10,Williams Mercedes,18,858,1077,1.0,0.0,0.0,34.355
-Miami,11,Kick Sauber Ferrari,17,855,1077,1.0,0.0,0.0,35.078
-Miami,12,Mercedes,11,847,1077,1.0,0.0,0.0,35.755
-Miami,13,Williams Mercedes,20,848,1077,1.0,0.0,0.0,36.086
-Miami,14,Kick Sauber Ferrari,19,822,1077,1.0,0.0,0.0,36.892
-Miami,15,Alpine Renault,13,839,1077,1.0,0.0,0.0,37.74
-Miami,16,Mercedes,12,1,1077,1.0,0.0,0.0,49.347
-Miami,17,Aston Martin Aramco Mercedes,8,4,1077,1.0,0.0,0.0,59.409
-Miami,18,Haas Ferrari,14,825,1077,1.0,0.0,0.0,66.303
-Miami,NC,Aston Martin Aramco Mercedes,7,840,1077,0.0,1.0,,
-Miami,NC,McLaren Mercedes,9,846,1077,0.0,1.0,,
-Austria,1,Red Bull Racing Honda RBPT,1,830,1077,1.0,0.0,0.0,0.0
-Austria,2,McLaren Mercedes,3,857,1077,1.0,0.0,0.0,4.616
-Austria,3,McLaren Mercedes,2,846,1077,1.0,0.0,0.0,5.348
-Austria,4,Mercedes,4,847,1077,1.0,0.0,0.0,8.354
-Austria,5,Ferrari,5,832,1077,1.0,0.0,0.0,9.989
-Austria,6,Mercedes,6,1,1077,1.0,0.0,0.0,11.207
-Austria,7,Ferrari,10,844,1077,1.0,0.0,0.0,13.424
-Austria,8,Red Bull Racing Honda RBPT,7,815,1077,1.0,0.0,0.0,17.409
-Austria,9,Haas Ferrari,11,825,1077,1.0,0.0,0.0,24.067
-Austria,10,Aston Martin Aramco Mercedes,12,840,1077,1.0,0.0,0.0,30.175
-Austria,11,Alpine Renault,8,839,1077,1.0,0.0,0.0,30.839
-Austria,12,Alpine Renault,9,842,1077,1.0,0.0,0.0,31.308
-Austria,13,RB Honda RBPT,14,852,1077,1.0,0.0,0.0,35.452
-Austria,14,RB Honda RBPT,16,817,1077,1.0,0.0,0.0,39.397
-Austria,15,Aston Martin Aramco Mercedes,13,4,1077,1.0,0.0,0.0,43.155
-Austria,16,Williams Mercedes,15,858,1077,1.0,0.0,0.0,44.076
-Austria,17,Williams Mercedes,20,848,1077,1.0,0.0,0.0,44.673
-Austria,18,Kick Sauber Ferrari,18,822,1077,1.0,0.0,0.0,46.511
-Austria,19,Haas Ferrari,17,807,1077,1.0,0.0,0.0,48.423
-Austria,20,Kick Sauber Ferrari,19,855,1077,1.0,0.0,0.0,53.143
-United States,1,Red Bull Racing Honda RBPT,1,830,1077,1.0,0.0,0.0,0.0
-United States,2,Ferrari,5,832,1077,1.0,0.0,0.0,3.882
-United States,3,McLaren Mercedes,4,846,1077,1.0,0.0,0.0,6.24
-United States,4,Ferrari,3,844,1077,1.0,0.0,0.0,6.956
-United States,5,Mercedes,2,847,1077,1.0,0.0,0.0,15.766
-United States,6,Mercedes,7,1,1077,1.0,0.0,0.0,18.724
-United States,7,Haas Ferrari,8,825,1077,1.0,0.0,0.0,25.161
-United States,8,Haas Ferrari,6,807,1077,1.0,0.0,0.0,26.588
-United States,9,Red Bull Racing Honda RBPT,11,815,1077,1.0,0.0,0.0,29.95
-United States,10,McLaren Mercedes,16,857,1077,1.0,0.0,0.0,37.059
-United States,11,RB Honda RBPT,9,852,1077,1.0,0.0,0.0,38.363
-United States,12,Williams Mercedes,10,861,1077,1.0,0.0,0.0,39.46
-United States,13,Aston Martin Aramco Mercedes,13,840,1077,1.0,0.0,0.0,41.236
-United States,14,Alpine Renault,12,842,1077,1.0,0.0,0.0,41.995
-United States,15,Alpine Renault,17,839,1077,1.0,0.0,0.0,42.804
-United States,16,RB Honda RBPT,15,859,1077,1.0,0.0,0.0,44.008
-United States,17,Williams Mercedes,20,848,1077,1.0,0.0,0.0,44.564
-United States,18,Aston Martin Aramco Mercedes,14,4,1077,1.0,0.0,0.0,46.807
-United States,19,Kick Sauber Ferrari,19,855,1077,1.0,0.0,0.0,52.842
-United States,20,Kick Sauber Ferrari,18,822,1077,1.0,0.0,0.0,54.476
-Brazil,1,McLaren Mercedes,2,846,1077,1.0,0.0,0.0,0.0
-Brazil,2,McLaren Mercedes,1,857,1077,1.0,0.0,0.0,0.593
-Brazil,3,Ferrari,3,844,1077,1.0,0.0,0.0,5.656
-Brazil,4,Red Bull Racing Honda RBPT,4,830,1077,1.0,0.0,0.0,6.497
-Brazil,5,Ferrari,5,832,1077,1.0,0.0,0.0,7.224
-Brazil,6,Mercedes,6,847,1077,1.0,0.0,0.0,12.475
-Brazil,7,Alpine Renault,7,842,1077,1.0,0.0,0.0,18.161
-Brazil,8,Red Bull Racing Honda RBPT,13,815,1077,1.0,0.0,0.0,18.717
-Brazil,9,RB Honda RBPT,8,859,1077,1.0,0.0,0.0,20.773
-Brazil,10,Williams Mercedes,9,848,1077,1.0,0.0,0.0,24.606
-Brazil,11,Mercedes,11,1,1077,1.0,0.0,0.0,29.764
-Brazil,12,Williams Mercedes,14,861,1077,1.0,0.0,0.0,33.233
-Brazil,13,Alpine Renault,16,839,1077,1.0,0.0,0.0,34.128
-Brazil,14,Haas Ferrari,10,860,1077,1.0,0.0,0.0,35.507
-Brazil,15,RB Honda RBPT,17,852,1077,1.0,0.0,0.0,41.374
-Brazil,16,Kick Sauber Ferrari,15,822,1077,1.0,0.0,0.0,43.231
-Brazil,17,Kick Sauber Ferrari,20,855,1077,1.0,0.0,0.0,54.139
-Brazil,18,Aston Martin Aramco Mercedes,18,4,1077,1.0,0.0,0.0,56.537
-Brazil,19,Aston Martin Aramco Mercedes,19,840,1077,1.0,0.0,0.0,57.983
-Brazil,NC,Haas Ferrari,12,807,1077,0.0,1.0,,
-Qatar,1,McLaren Mercedes,3,857,1077,1.0,0.0,0.0,0.0
-Qatar,2,McLaren Mercedes,1,846,1077,1.0,0.0,0.0,0.136
-Qatar,3,Mercedes,2,847,1077,1.0,0.0,0.0,0.41
-Qatar,4,Ferrari,4,832,1077,1.0,0.0,0.0,1.326
-Qatar,5,Ferrari,5,844,1077,1.0,0.0,0.0,5.073
-Qatar,6,Mercedes,7,1,1077,1.0,0.0,0.0,5.65
-Qatar,7,Haas Ferrari,9,807,1077,1.0,0.0,0.0,8.508
-Qatar,8,Red Bull Racing Honda RBPT,6,830,1077,1.0,0.0,0.0,10.368
-Qatar,9,Alpine Renault,8,842,1077,1.0,0.0,0.0,14.513
-Qatar,10,Haas Ferrari,15,825,1077,1.0,0.0,0.0,15.485
-Qatar,11,Aston Martin Aramco Mercedes,11,4,1077,1.0,0.0,0.0,19.24
-Qatar,12,Kick Sauber Ferrari,13,822,1077,1.0,0.0,0.0,23.351
-Qatar,13,Aston Martin Aramco Mercedes,14,840,1077,1.0,0.0,0.0,24.421
-Qatar,14,Alpine Renault,17,839,1077,1.0,0.0,0.0,30.379
-Qatar,15,Williams Mercedes,12,848,1077,1.0,0.0,0.0,33.062
-Qatar,16,RB Honda RBPT,10,859,1077,1.0,0.0,0.0,34.356
-Qatar,17,RB Honda RBPT,16,852,1077,1.0,0.0,0.0,35.102
-Qatar,18,Williams Mercedes,20,861,1077,1.0,0.0,0.0,35.639
-Qatar,19,Kick Sauber Ferrari,18,855,1077,1.0,0.0,0.0,71.436
-Qatar,20,Red Bull Racing Honda RBPT,19,815,1077,1.0,0.0,0.0,74.371
+Track,Position,Starting Grid,kaggle_driver_id,raceId,finished,dnf,laps_down,time_gap_sec,year,Team
+China,1,4,830,1077,1.0,0.0,0.0,0.0,2024,Red Bull Racing
+China,2,2,1,1077,1.0,0.0,0.0,13.043,2024,Mercedes
+China,3,6,815,1077,1.0,0.0,0.0,15.258,2024,Red Bull Racing
+China,4,7,844,1077,1.0,0.0,0.0,17.486,2024,Ferrari
+China,5,5,832,1077,1.0,0.0,0.0,20.696,2024,Ferrari
+China,6,1,846,1077,1.0,0.0,0.0,22.088,2024,McLaren
+China,7,8,857,1077,1.0,0.0,0.0,24.713,2024,McLaren
+China,8,11,847,1077,1.0,0.0,0.0,25.696,2024,Mercedes
+China,9,10,855,1077,1.0,0.0,0.0,31.951,2024,Kick Sauber
+China,10,12,825,1077,1.0,0.0,0.0,37.398,2024,Haas
+China,11,14,817,1077,1.0,0.0,0.0,37.84,2024,RB
+China,12,9,822,1077,1.0,0.0,0.0,38.295,2024,Kick Sauber
+China,13,17,839,1077,1.0,0.0,0.0,39.841,2024,Alpine
+China,14,15,840,1077,1.0,0.0,0.0,40.299,2024,Aston Martin
+China,15,16,842,1077,1.0,0.0,0.0,40.838,2024,Alpine
+China,16,19,852,1077,1.0,0.0,0.0,41.87,2024,RB
+China,17,18,848,1077,1.0,0.0,0.0,42.998,2024,Williams
+China,18,20,858,1077,1.0,0.0,0.0,46.352,2024,Williams
+China,19,13,807,1077,1.0,0.0,0.0,49.63,2024,Haas
+China,20,3,4,1077,0.0,1.0,,,2024,Aston Martin
+Miami,1,1,830,1077,1.0,0.0,0.0,0.0,2024,Red Bull Racing
+Miami,2,2,844,1077,1.0,0.0,0.0,3.371,2024,Ferrari
+Miami,3,3,815,1077,1.0,0.0,0.0,5.095,2024,Red Bull Racing
+Miami,4,4,817,1077,1.0,0.0,0.0,14.971,2024,RB
+Miami,5,5,832,1077,1.0,0.0,0.0,15.222,2024,Ferrari
+Miami,6,6,857,1077,1.0,0.0,0.0,15.75,2024,McLaren
+Miami,7,10,807,1077,1.0,0.0,0.0,22.054,2024,Haas
+Miami,8,15,852,1077,1.0,0.0,0.0,29.816,2024,RB
+Miami,9,16,842,1077,1.0,0.0,0.0,31.88,2024,Alpine
+Miami,10,18,858,1077,1.0,0.0,0.0,34.355,2024,Williams
+Miami,11,17,855,1077,1.0,0.0,0.0,35.078,2024,Kick Sauber
+Miami,12,11,847,1077,1.0,0.0,0.0,35.755,2024,Mercedes
+Miami,13,20,848,1077,1.0,0.0,0.0,36.086,2024,Williams
+Miami,14,19,822,1077,1.0,0.0,0.0,36.892,2024,Kick Sauber
+Miami,15,13,839,1077,1.0,0.0,0.0,37.74,2024,Alpine
+Miami,16,12,1,1077,1.0,0.0,0.0,49.347,2024,Mercedes
+Miami,17,8,4,1077,1.0,0.0,0.0,59.409,2024,Aston Martin
+Miami,18,14,825,1077,1.0,0.0,0.0,66.303,2024,Haas
+Miami,NC,7,840,1077,0.0,1.0,,,2024,Aston Martin
+Miami,NC,9,846,1077,0.0,1.0,,,2024,McLaren
+Austria,1,1,830,1077,1.0,0.0,0.0,0.0,2024,Red Bull Racing
+Austria,2,3,857,1077,1.0,0.0,0.0,4.616,2024,McLaren
+Austria,3,2,846,1077,1.0,0.0,0.0,5.348,2024,McLaren
+Austria,4,4,847,1077,1.0,0.0,0.0,8.354,2024,Mercedes
+Austria,5,5,832,1077,1.0,0.0,0.0,9.989,2024,Ferrari
+Austria,6,6,1,1077,1.0,0.0,0.0,11.207,2024,Mercedes
+Austria,7,10,844,1077,1.0,0.0,0.0,13.424,2024,Ferrari
+Austria,8,7,815,1077,1.0,0.0,0.0,17.409,2024,Red Bull Racing
+Austria,9,11,825,1077,1.0,0.0,0.0,24.067,2024,Haas
+Austria,10,12,840,1077,1.0,0.0,0.0,30.175,2024,Aston Martin
+Austria,11,8,839,1077,1.0,0.0,0.0,30.839,2024,Alpine
+Austria,12,9,842,1077,1.0,0.0,0.0,31.308,2024,Alpine
+Austria,13,14,852,1077,1.0,0.0,0.0,35.452,2024,RB
+Austria,14,16,817,1077,1.0,0.0,0.0,39.397,2024,RB
+Austria,15,13,4,1077,1.0,0.0,0.0,43.155,2024,Aston Martin
+Austria,16,15,858,1077,1.0,0.0,0.0,44.076,2024,Williams
+Austria,17,20,848,1077,1.0,0.0,0.0,44.673,2024,Williams
+Austria,18,18,822,1077,1.0,0.0,0.0,46.511,2024,Kick Sauber
+Austria,19,17,807,1077,1.0,0.0,0.0,48.423,2024,Haas
+Austria,20,19,855,1077,1.0,0.0,0.0,53.143,2024,Kick Sauber
+United States,1,1,830,1077,1.0,0.0,0.0,0.0,2024,Red Bull Racing
+United States,2,5,832,1077,1.0,0.0,0.0,3.882,2024,Ferrari
+United States,3,4,846,1077,1.0,0.0,0.0,6.24,2024,McLaren
+United States,4,3,844,1077,1.0,0.0,0.0,6.956,2024,Ferrari
+United States,5,2,847,1077,1.0,0.0,0.0,15.766,2024,Mercedes
+United States,6,7,1,1077,1.0,0.0,0.0,18.724,2024,Mercedes
+United States,7,8,825,1077,1.0,0.0,0.0,25.161,2024,Haas
+United States,8,6,807,1077,1.0,0.0,0.0,26.588,2024,Haas
+United States,9,11,815,1077,1.0,0.0,0.0,29.95,2024,Red Bull Racing
+United States,10,16,857,1077,1.0,0.0,0.0,37.059,2024,McLaren
+United States,11,9,852,1077,1.0,0.0,0.0,38.363,2024,RB
+United States,12,10,861,1077,1.0,0.0,0.0,39.46,2024,Williams
+United States,13,13,840,1077,1.0,0.0,0.0,41.236,2024,Aston Martin
+United States,14,12,842,1077,1.0,0.0,0.0,41.995,2024,Alpine
+United States,15,17,839,1077,1.0,0.0,0.0,42.804,2024,Alpine
+United States,16,15,859,1077,1.0,0.0,0.0,44.008,2024,RB
+United States,17,20,848,1077,1.0,0.0,0.0,44.564,2024,Williams
+United States,18,14,4,1077,1.0,0.0,0.0,46.807,2024,Aston Martin
+United States,19,19,855,1077,1.0,0.0,0.0,52.842,2024,Kick Sauber
+United States,20,18,822,1077,1.0,0.0,0.0,54.476,2024,Kick Sauber
+Brazil,1,2,846,1077,1.0,0.0,0.0,0.0,2024,McLaren
+Brazil,2,1,857,1077,1.0,0.0,0.0,0.593,2024,McLaren
+Brazil,3,3,844,1077,1.0,0.0,0.0,5.656,2024,Ferrari
+Brazil,4,4,830,1077,1.0,0.0,0.0,6.497,2024,Red Bull Racing
+Brazil,5,5,832,1077,1.0,0.0,0.0,7.224,2024,Ferrari
+Brazil,6,6,847,1077,1.0,0.0,0.0,12.475,2024,Mercedes
+Brazil,7,7,842,1077,1.0,0.0,0.0,18.161,2024,Alpine
+Brazil,8,13,815,1077,1.0,0.0,0.0,18.717,2024,Red Bull Racing
+Brazil,9,8,859,1077,1.0,0.0,0.0,20.773,2024,RB
+Brazil,10,9,848,1077,1.0,0.0,0.0,24.606,2024,Williams
+Brazil,11,11,1,1077,1.0,0.0,0.0,29.764,2024,Mercedes
+Brazil,12,14,861,1077,1.0,0.0,0.0,33.233,2024,Williams
+Brazil,13,16,839,1077,1.0,0.0,0.0,34.128,2024,Alpine
+Brazil,14,10,860,1077,1.0,0.0,0.0,35.507,2024,Haas
+Brazil,15,17,852,1077,1.0,0.0,0.0,41.374,2024,RB
+Brazil,16,15,822,1077,1.0,0.0,0.0,43.231,2024,Kick Sauber
+Brazil,17,20,855,1077,1.0,0.0,0.0,54.139,2024,Kick Sauber
+Brazil,18,18,4,1077,1.0,0.0,0.0,56.537,2024,Aston Martin
+Brazil,19,19,840,1077,1.0,0.0,0.0,57.983,2024,Aston Martin
+Brazil,NC,12,807,1077,0.0,1.0,,,2024,Haas
+Qatar,1,3,857,1077,1.0,0.0,0.0,0.0,2024,McLaren
+Qatar,2,1,846,1077,1.0,0.0,0.0,0.136,2024,McLaren
+Qatar,3,2,847,1077,1.0,0.0,0.0,0.41,2024,Mercedes
+Qatar,4,4,832,1077,1.0,0.0,0.0,1.326,2024,Ferrari
+Qatar,5,5,844,1077,1.0,0.0,0.0,5.073,2024,Ferrari
+Qatar,6,7,1,1077,1.0,0.0,0.0,5.65,2024,Mercedes
+Qatar,7,9,807,1077,1.0,0.0,0.0,8.508,2024,Haas
+Qatar,8,6,830,1077,1.0,0.0,0.0,10.368,2024,Red Bull Racing
+Qatar,9,8,842,1077,1.0,0.0,0.0,14.513,2024,Alpine
+Qatar,10,15,825,1077,1.0,0.0,0.0,15.485,2024,Haas
+Qatar,11,11,4,1077,1.0,0.0,0.0,19.24,2024,Aston Martin
+Qatar,12,13,822,1077,1.0,0.0,0.0,23.351,2024,Kick Sauber
+Qatar,13,14,840,1077,1.0,0.0,0.0,24.421,2024,Aston Martin
+Qatar,14,17,839,1077,1.0,0.0,0.0,30.379,2024,Alpine
+Qatar,15,12,848,1077,1.0,0.0,0.0,33.062,2024,Williams
+Qatar,16,10,859,1077,1.0,0.0,0.0,34.356,2024,RB
+Qatar,17,16,852,1077,1.0,0.0,0.0,35.102,2024,RB
+Qatar,18,20,861,1077,1.0,0.0,0.0,35.639,2024,Williams
+Qatar,19,18,855,1077,1.0,0.0,0.0,71.436,2024,Kick Sauber
+Qatar,20,19,815,1077,1.0,0.0,0.0,74.371,2024,Red Bull Racing
