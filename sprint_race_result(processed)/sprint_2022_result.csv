@@ -1,61 +1,61 @@
-Position,Starting Grid,kaggle_driver_id,raceId,finished,dnf,laps_down,time_gap_sec,year,Team,Track
-1,1,830,1077,1.0,0.0,0.0,0.0,2022,Red Bull Racing,Emilia Romagna
-2,2,844,1077,1.0,0.0,0.0,2.975,2022,Ferrari,Emilia Romagna
-3,7,815,1077,1.0,0.0,0.0,4.721,2022,Red Bull Racing,Emilia Romagna
-4,10,832,1077,1.0,0.0,0.0,17.578,2022,Ferrari,Emilia Romagna
-5,3,846,1077,1.0,0.0,0.0,24.561,2022,McLaren,Emilia Romagna
-6,6,817,1077,1.0,0.0,0.0,27.74,2022,McLaren,Emilia Romagna
-7,8,822,1077,1.0,0.0,0.0,28.133,2022,Alfa Romeo,Emilia Romagna
-8,4,825,1077,1.0,0.0,0.0,30.712,2022,Haas F1 Team,Emilia Romagna
-9,5,4,1077,1.0,0.0,0.0,32.278,2022,Alpine,Emilia Romagna
-10,12,854,1077,1.0,0.0,0.0,33.773,2022,Haas F1 Team,Emilia Romagna
-11,11,847,1077,1.0,0.0,0.0,36.284,2022,Mercedes,Emilia Romagna
-12,16,852,1077,1.0,0.0,0.0,38.298,2022,AlphaTauri,Emilia Romagna
-13,9,20,1077,1.0,0.0,0.0,40.177,2022,Aston Martin,Emilia Romagna
-14,13,1,1077,1.0,0.0,0.0,41.459,2022,Mercedes,Emilia Romagna
-15,15,840,1077,1.0,0.0,0.0,42.91,2022,Aston Martin,Emilia Romagna
-16,19,839,1077,1.0,0.0,0.0,43.517,2022,Alpine,Emilia Romagna
-17,17,842,1077,1.0,0.0,0.0,43.794,2022,AlphaTauri,Emilia Romagna
-18,20,848,1077,1.0,0.0,0.0,48.871,2022,Williams,Emilia Romagna
-19,18,849,1077,1.0,0.0,0.0,52.017,2022,Williams,Emilia Romagna
-NC,14,855,1077,0.0,1.0,,,2022,Alfa Romeo,Emilia Romagna
-1,1,830,1084,1.0,0.0,0.0,0.0,2022,Red Bull Racing,Austria
-2,2,844,1084,1.0,0.0,0.0,1.675,2022,Ferrari,Austria
-3,3,832,1084,1.0,0.0,0.0,5.644,2022,Ferrari,Austria
-4,4,847,1084,1.0,0.0,0.0,13.429,2022,Mercedes,Austria
-5,13,815,1084,1.0,0.0,0.0,18.302,2022,Red Bull Racing,Austria
-6,5,839,1084,1.0,0.0,0.0,31.032,2022,Alpine,Austria
-7,6,825,1084,1.0,0.0,0.0,34.539,2022,Haas F1 Team,Austria
-8,9,1,1084,1.0,0.0,0.0,35.447,2022,Mercedes,Austria
-9,7,854,1084,1.0,0.0,0.0,37.163,2022,Haas F1 Team,Austria
-10,12,822,1084,1.0,0.0,0.0,37.557,2022,Alfa Romeo,Austria
-11,15,846,1084,1.0,0.0,0.0,38.58,2022,McLaren,Austria
-12,16,817,1084,1.0,0.0,0.0,39.738,2022,McLaren,Austria
-13,17,840,1084,1.0,0.0,0.0,48.241,2022,Aston Martin,Austria
-14,18,855,1084,1.0,0.0,0.0,50.753,2022,Alfa Romeo,Austria
-15,10,842,1084,1.0,0.0,0.0,52.125,2022,AlphaTauri,Austria
-16,11,848,1084,1.0,0.0,0.0,52.412,2022,Williams,Austria
-17,14,852,1084,1.0,0.0,0.0,54.556,2022,AlphaTauri,Austria
-18,19,849,1084,1.0,0.0,0.0,68.694,2022,Williams,Austria
-19,20,20,1084,0.0,1.0,,,2022,Aston Martin,Austria
-NC,8,4,1084,0.0,1.0,,,2022,Alpine,Austria
-1,3,847,1095,1.0,0.0,0.0,0.0,2022,Mercedes,Brazil
-2,5,832,1095,1.0,0.0,0.0,3.995,2022,Ferrari,Brazil
-3,8,1,1095,1.0,0.0,0.0,4.492,2022,Mercedes,Brazil
-4,2,830,1095,1.0,0.0,0.0,10.494,2022,Red Bull Racing,Brazil
-5,9,815,1095,1.0,0.0,0.0,11.855,2022,Red Bull Racing,Brazil
-6,10,844,1095,1.0,0.0,0.0,13.133,2022,Ferrari,Brazil
-7,4,846,1095,1.0,0.0,0.0,25.624,2022,McLaren,Brazil
-8,1,825,1095,1.0,0.0,0.0,28.768,2022,Haas F1 Team,Brazil
-9,13,20,1095,1.0,0.0,0.0,30.218,2022,Aston Martin,Brazil
-10,12,842,1095,1.0,0.0,0.0,34.17,2022,AlphaTauri,Brazil
-11,14,817,1095,1.0,0.0,0.0,39.395,2022,McLaren,Brazil
-12,20,854,1095,1.0,0.0,0.0,41.159,2022,Haas F1 Team,Brazil
-13,17,855,1095,1.0,0.0,0.0,41.763,2022,Alfa Romeo,Brazil
-14,18,822,1095,1.0,0.0,0.0,42.338,2022,Alfa Romeo,Brazil
-15,19,852,1095,1.0,0.0,0.0,50.306,2022,AlphaTauri,Brazil
-16,15,840,1095,1.0,0.0,0.0,50.7,2022,Aston Martin,Brazil
-17,6,839,1095,1.0,0.0,0.0,51.756,2022,Alpine,Brazil
-18,7,4,1095,1.0,0.0,0.0,53.985,2022,Alpine,Brazil
-19,16,849,1095,1.0,0.0,0.0,76.85,2022,Williams,Brazil
-NC,11,848,1095,0.0,1.0,,,2022,Williams,Brazil
+Position,Starting Grid,kaggle_driver_id,raceId,finished,dnf,laps_down,time_gap_sec,year,Team,Track,rain,sunny
+1,1,830,1077,1.0,0.0,0.0,0.0,2022,Red Bull Racing,Emilia Romagna,1,0
+2,2,844,1077,1.0,0.0,0.0,2.975,2022,Ferrari,Emilia Romagna,1,0
+3,7,815,1077,1.0,0.0,0.0,4.721,2022,Red Bull Racing,Emilia Romagna,1,0
+4,10,832,1077,1.0,0.0,0.0,17.578,2022,Ferrari,Emilia Romagna,1,0
+5,3,846,1077,1.0,0.0,0.0,24.561,2022,McLaren,Emilia Romagna,1,0
+6,6,817,1077,1.0,0.0,0.0,27.74,2022,McLaren,Emilia Romagna,1,0
+7,8,822,1077,1.0,0.0,0.0,28.133,2022,Alfa Romeo,Emilia Romagna,1,0
+8,4,825,1077,1.0,0.0,0.0,30.712,2022,Haas F1 Team,Emilia Romagna,1,0
+9,5,4,1077,1.0,0.0,0.0,32.278,2022,Alpine,Emilia Romagna,1,0
+10,12,854,1077,1.0,0.0,0.0,33.773,2022,Haas F1 Team,Emilia Romagna,1,0
+11,11,847,1077,1.0,0.0,0.0,36.284,2022,Mercedes,Emilia Romagna,1,0
+12,16,852,1077,1.0,0.0,0.0,38.298,2022,AlphaTauri,Emilia Romagna,1,0
+13,9,20,1077,1.0,0.0,0.0,40.177,2022,Aston Martin,Emilia Romagna,1,0
+14,13,1,1077,1.0,0.0,0.0,41.459,2022,Mercedes,Emilia Romagna,1,0
+15,15,840,1077,1.0,0.0,0.0,42.91,2022,Aston Martin,Emilia Romagna,1,0
+16,19,839,1077,1.0,0.0,0.0,43.517,2022,Alpine,Emilia Romagna,1,0
+17,17,842,1077,1.0,0.0,0.0,43.794,2022,AlphaTauri,Emilia Romagna,1,0
+18,20,848,1077,1.0,0.0,0.0,48.871,2022,Williams,Emilia Romagna,1,0
+19,18,849,1077,1.0,0.0,0.0,52.017,2022,Williams,Emilia Romagna,1,0
+NC,14,855,1077,0.0,1.0,,,2022,Alfa Romeo,Emilia Romagna,1,0
+1,1,830,1084,1.0,0.0,0.0,0.0,2022,Red Bull Racing,Austria,0,1
+2,2,844,1084,1.0,0.0,0.0,1.675,2022,Ferrari,Austria,0,1
+3,3,832,1084,1.0,0.0,0.0,5.644,2022,Ferrari,Austria,0,1
+4,4,847,1084,1.0,0.0,0.0,13.429,2022,Mercedes,Austria,0,1
+5,13,815,1084,1.0,0.0,0.0,18.302,2022,Red Bull Racing,Austria,0,1
+6,5,839,1084,1.0,0.0,0.0,31.032,2022,Alpine,Austria,0,1
+7,6,825,1084,1.0,0.0,0.0,34.539,2022,Haas F1 Team,Austria,0,1
+8,9,1,1084,1.0,0.0,0.0,35.447,2022,Mercedes,Austria,0,1
+9,7,854,1084,1.0,0.0,0.0,37.163,2022,Haas F1 Team,Austria,0,1
+10,12,822,1084,1.0,0.0,0.0,37.557,2022,Alfa Romeo,Austria,0,1
+11,15,846,1084,1.0,0.0,0.0,38.58,2022,McLaren,Austria,0,1
+12,16,817,1084,1.0,0.0,0.0,39.738,2022,McLaren,Austria,0,1
+13,17,840,1084,1.0,0.0,0.0,48.241,2022,Aston Martin,Austria,0,1
+14,18,855,1084,1.0,0.0,0.0,50.753,2022,Alfa Romeo,Austria,0,1
+15,10,842,1084,1.0,0.0,0.0,52.125,2022,AlphaTauri,Austria,0,1
+16,11,848,1084,1.0,0.0,0.0,52.412,2022,Williams,Austria,0,1
+17,14,852,1084,1.0,0.0,0.0,54.556,2022,AlphaTauri,Austria,0,1
+18,19,849,1084,1.0,0.0,0.0,68.694,2022,Williams,Austria,0,1
+19,20,20,1084,0.0,1.0,,,2022,Aston Martin,Austria,0,1
+NC,8,4,1084,0.0,1.0,,,2022,Alpine,Austria,0,1
+1,3,847,1095,1.0,0.0,0.0,0.0,2022,Mercedes,Brazil,0,1
+2,5,832,1095,1.0,0.0,0.0,3.995,2022,Ferrari,Brazil,0,1
+3,8,1,1095,1.0,0.0,0.0,4.492,2022,Mercedes,Brazil,0,1
+4,2,830,1095,1.0,0.0,0.0,10.494,2022,Red Bull Racing,Brazil,0,1
+5,9,815,1095,1.0,0.0,0.0,11.855,2022,Red Bull Racing,Brazil,0,1
+6,10,844,1095,1.0,0.0,0.0,13.133,2022,Ferrari,Brazil,0,1
+7,4,846,1095,1.0,0.0,0.0,25.624,2022,McLaren,Brazil,0,1
+8,1,825,1095,1.0,0.0,0.0,28.768,2022,Haas F1 Team,Brazil,0,1
+9,13,20,1095,1.0,0.0,0.0,30.218,2022,Aston Martin,Brazil,0,1
+10,12,842,1095,1.0,0.0,0.0,34.17,2022,AlphaTauri,Brazil,0,1
+11,14,817,1095,1.0,0.0,0.0,39.395,2022,McLaren,Brazil,0,1
+12,20,854,1095,1.0,0.0,0.0,41.159,2022,Haas F1 Team,Brazil,0,1
+13,17,855,1095,1.0,0.0,0.0,41.763,2022,Alfa Romeo,Brazil,0,1
+14,18,822,1095,1.0,0.0,0.0,42.338,2022,Alfa Romeo,Brazil,0,1
+15,19,852,1095,1.0,0.0,0.0,50.306,2022,AlphaTauri,Brazil,0,1
+16,15,840,1095,1.0,0.0,0.0,50.7,2022,Aston Martin,Brazil,0,1
+17,6,839,1095,1.0,0.0,0.0,51.756,2022,Alpine,Brazil,0,1
+18,7,4,1095,1.0,0.0,0.0,53.985,2022,Alpine,Brazil,0,1
+19,16,849,1095,1.0,0.0,0.0,76.85,2022,Williams,Brazil,0,1
+NC,11,848,1095,0.0,1.0,,,2022,Williams,Brazil,0,1

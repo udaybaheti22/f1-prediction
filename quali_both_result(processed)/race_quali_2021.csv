@@ -1,440 +1,440 @@
-raceId,Team,kaggle_driver_id,position,participated_q2,participated_q3,q1_time_sec,q2_time_sec,q3_time_sec,Track
-1052,Red Bull Racing,830,1,1,1,90.499,90.318,88.997,Bahrain
-1052,Mercedes,1,2,1,1,90.617,90.08500000000001,89.385,Bahrain
-1052,Mercedes,822,3,1,1,91.2,90.186,89.586,Bahrain
-1052,Ferrari,844,4,1,1,90.691,90.01,89.678,Bahrain
-1052,AlphaTauri,842,5,1,1,90.848,90.513,89.809,Bahrain
-1052,McLaren,817,6,1,1,90.795,90.22200000000001,89.92699999999999,Bahrain
-1052,McLaren,846,7,1,1,90.902,90.099,89.974,Bahrain
-1052,Ferrari,832,8,1,1,91.65299999999999,90.009,90.215,Bahrain
-1052,Alpine,4,9,1,1,90.863,90.595,90.249,Bahrain
-1052,Aston Martin,840,10,1,1,91.261,90.624,90.601,Bahrain
-1052,Red Bull Racing,815,11,1,0,91.16499999999999,90.65899999999999,,Bahrain
-1052,Alfa Romeo,841,12,1,0,90.998,90.708,,Bahrain
-1052,AlphaTauri,852,13,1,0,90.607,91.203,,Bahrain
-1052,Alfa Romeo,8,14,1,0,91.547,91.238,,Bahrain
-1052,Williams,847,15,1,0,91.316,93.43,,Bahrain
-1052,Alpine,839,16,0,0,91.724,,,Bahrain
-1052,Williams,849,17,0,0,91.936,,,Bahrain
-1052,Aston Martin,20,18,0,0,92.056,,,Bahrain
-1052,Haas,854,19,0,0,92.449,,,Bahrain
-1052,Haas,853,20,0,0,93.273,,,Bahrain
-1053,Mercedes,1,1,1,1,74.82300000000001,74.81700000000001,74.411,Emilia Romagna
-1053,Red Bull Racing,815,2,1,1,75.395,74.716,74.446,Emilia Romagna
-1053,Red Bull Racing,830,3,1,1,75.109,74.884,74.498,Emilia Romagna
-1053,Ferrari,844,4,1,1,75.413,74.80799999999999,74.74,Emilia Romagna
-1053,AlphaTauri,842,5,1,1,75.548,74.92699999999999,74.78999999999999,Emilia Romagna
-1053,McLaren,817,6,1,1,75.669,75.033,74.826,Emilia Romagna
-1053,McLaren,846,7,1,1,75.009,74.718,74.875,Emilia Romagna
-1053,Mercedes,822,8,1,1,74.672,74.905,74.898,Emilia Romagna
-1053,Alpine,839,9,1,1,75.385,75.117,75.21000000000001,Emilia Romagna
-1053,Aston Martin,840,10,1,0,75.522,75.138,,Emilia Romagna
-1053,Ferrari,832,11,1,0,75.406,75.199,,Emilia Romagna
-1053,Williams,847,12,1,0,75.826,75.261,,Emilia Romagna
-1053,Aston Martin,20,13,1,0,75.459,75.394,,Emilia Romagna
-1053,Williams,849,14,1,0,75.653,75.593,,Emilia Romagna
-1053,Alpine,4,15,1,0,75.832,75.593,,Emilia Romagna
-1053,Alfa Romeo,8,16,0,0,75.974,,,Emilia Romagna
-1053,Alfa Romeo,841,17,0,0,76.122,,,Emilia Romagna
-1053,Haas,854,18,0,0,76.279,,,Emilia Romagna
-1053,Haas,853,19,0,0,76.797,,,Emilia Romagna
-1053,AlphaTauri,852,20,0,0,,,,Emilia Romagna
-1054,Mercedes,822,1,1,1,78.72200000000001,78.458,78.348,Portugal
-1054,Mercedes,1,2,1,1,78.857,77.968,78.355,Portugal
-1054,Red Bull Racing,830,3,1,1,79.485,78.65,78.746,Portugal
-1054,Red Bull Racing,815,4,1,1,79.337,78.845,78.89,Portugal
-1054,Ferrari,832,5,1,1,79.309,78.813,79.039,Portugal
-1054,Alpine,839,6,1,1,79.092,78.586,79.042,Portugal
-1054,McLaren,846,7,1,1,78.794,78.481,79.116,Portugal
-1054,Ferrari,844,8,1,1,79.373,78.769,79.306,Portugal
-1054,AlphaTauri,842,9,1,1,79.464,79.05199999999999,79.475,Portugal
-1054,Aston Martin,20,10,1,1,79.40299999999999,78.97,79.65899999999999,Portugal
-1054,Williams,847,11,1,0,79.797,79.10900000000001,,Portugal
-1054,Alfa Romeo,841,12,1,0,79.41,79.21600000000001,,Portugal
-1054,Alpine,4,13,1,0,79.72800000000001,79.456,,Portugal
-1054,AlphaTauri,852,14,1,0,79.684,79.463,,Portugal
-1054,Alfa Romeo,8,15,1,0,79.748,79.812,,Portugal
-1054,McLaren,817,16,0,0,79.839,,,Portugal
-1054,Aston Martin,840,17,0,0,79.913,,,Portugal
-1054,Williams,849,18,0,0,80.285,,,Portugal
-1054,Haas,854,19,0,0,80.452,,,Portugal
-1054,Haas,853,20,0,0,80.912,,,Portugal
-1055,Mercedes,1,1,1,1,78.245,77.166,76.741,Spain
-1055,Red Bull Racing,830,2,1,1,78.09,76.922,76.777,Spain
-1055,Mercedes,822,3,1,1,78.005,77.142,76.873,Spain
-1055,Ferrari,844,4,1,1,78.041,77.717,77.51,Spain
-1055,Alpine,839,5,1,1,78.281,77.743,77.58,Spain
-1055,Ferrari,832,6,1,1,78.205,77.656,77.62,Spain
-1055,McLaren,817,7,1,1,78.264,77.719,77.622,Spain
-1055,Red Bull Racing,815,8,1,1,78.203,77.669,77.701,Spain
-1055,McLaren,846,9,1,1,77.821,77.696,78.01,Spain
-1055,Alpine,4,10,1,1,78.281,77.96600000000001,78.14699999999999,Spain
-1055,Aston Martin,840,11,1,0,78.241,77.974,,Spain
-1055,AlphaTauri,842,12,1,0,78.19,77.982,,Spain
-1055,Aston Martin,20,13,1,0,78.289,78.07900000000001,,Spain
-1055,Alfa Romeo,841,14,1,0,78.549,78.356,,Spain
-1055,Williams,847,15,1,0,78.445,79.154,,Spain
-1055,AlphaTauri,852,16,0,0,78.556,,,Spain
-1055,Alfa Romeo,8,17,0,0,78.917,,,Spain
-1055,Haas,854,18,0,0,79.117,,,Spain
-1055,Williams,849,19,0,0,79.219,,,Spain
-1055,Haas,853,20,0,0,79.807,,,Spain
-1056,Ferrari,844,1,1,1,71.113,70.597,70.346,Monaco
-1056,Red Bull Racing,830,2,1,1,71.124,70.65,70.576,Monaco
-1056,Mercedes,822,3,1,1,70.938,70.695,70.601,Monaco
-1056,Ferrari,832,4,1,1,71.324,70.806,70.611,Monaco
-1056,McLaren,846,5,1,1,71.321,71.031,70.62,Monaco
-1056,AlphaTauri,842,6,1,1,71.56,71.179,70.9,Monaco
-1056,Mercedes,1,7,1,1,71.622,71.116,71.095,Monaco
-1056,Aston Martin,20,8,1,1,72.078,71.309,71.419,Monaco
-1056,Red Bull Racing,815,9,1,1,71.644,71.019,71.57300000000001,Monaco
-1056,Alfa Romeo,841,10,1,1,71.658,71.409,71.779,Monaco
-1056,Alpine,839,11,1,0,71.74,71.486,,Monaco
-1056,McLaren,817,12,1,0,71.747,71.598,,Monaco
-1056,Aston Martin,840,13,1,0,71.979,71.6,,Monaco
-1056,Alfa Romeo,8,14,1,0,71.899,71.642,,Monaco
-1056,Williams,847,15,1,0,72.016,71.83,,Monaco
-1056,AlphaTauri,852,16,0,0,72.096,,,Monaco
-1056,Alpine,4,17,0,0,72.205,,,Monaco
-1056,Williams,849,18,0,0,72.366,,,Monaco
-1056,Haas,853,19,0,0,72.958,,,Monaco
-1057,Ferrari,844,1,1,1,102.241,101.65899999999999,101.218,Azerbaijan
-1057,Mercedes,1,2,1,1,101.545,101.634,101.45,Azerbaijan
-1057,Red Bull Racing,830,3,1,1,101.75999999999999,101.625,101.563,Azerbaijan
-1057,AlphaTauri,842,4,1,1,102.288,101.932,101.565,Azerbaijan
-1057,Ferrari,832,5,1,1,102.12100000000001,101.74000000000001,101.576,Azerbaijan
-1057,McLaren,846,6,1,1,102.167,101.813,101.747,Azerbaijan
-1057,Red Bull Racing,815,7,1,1,101.968,101.63,101.917,Azerbaijan
-1057,AlphaTauri,852,8,1,1,102.521,101.654,102.211,Azerbaijan
-1057,Alpine,4,9,1,1,102.934,102.195,102.327,Azerbaijan
-1057,Mercedes,822,10,1,1,102.701,102.106,102.65899999999999,Azerbaijan
-1057,Aston Martin,20,11,1,0,102.46000000000001,102.22399999999999,,Azerbaijan
-1057,Alpine,839,12,1,0,102.426,102.273,,Azerbaijan
-1057,McLaren,817,13,1,0,102.304,102.55799999999999,,Azerbaijan
-1057,Alfa Romeo,8,14,1,0,102.923,102.587,,Azerbaijan
-1057,Williams,847,15,1,0,102.72800000000001,102.75800000000001,,Azerbaijan
-1057,Williams,849,16,0,0,103.128,,,Azerbaijan
-1057,Haas,854,17,0,0,104.158,,,Azerbaijan
-1057,Haas,853,18,0,0,104.238,,,Azerbaijan
-1057,Aston Martin,840,19,0,0,,,,Azerbaijan
-1057,Alfa Romeo,841,20,0,0,,,,Azerbaijan
-1059,Red Bull Racing,830,1,1,1,91.001,91.08,89.99,France
-1059,Mercedes,1,2,1,1,91.237,90.788,90.248,France
-1059,Mercedes,822,3,1,1,91.669,90.735,90.376,France
-1059,Red Bull Racing,815,4,1,1,91.56,90.971,90.445,France
-1059,Ferrari,832,5,1,1,92.07900000000001,91.146,90.84,France
-1059,AlphaTauri,842,6,1,1,91.898,91.35300000000001,90.868,France
-1059,Ferrari,844,7,1,1,92.209,91.56700000000001,90.987,France
-1059,McLaren,846,8,1,1,91.733,91.542,91.252,France
-1059,Alpine,4,9,1,1,92.158,91.549,91.34,France
-1059,McLaren,817,10,1,1,92.181,91.615,91.382,France
-1059,Alpine,839,11,1,0,92.13900000000001,91.736,,France
-1059,Aston Martin,20,12,1,0,92.132,91.767,,France
-1059,Alfa Romeo,841,13,1,0,92.72200000000001,91.813,,France
-1059,Williams,847,14,1,0,93.06,92.065,,France
-1059,Haas,854,15,0,0,92.94200000000001,,,France
-1059,Williams,849,16,0,0,93.062,,,France
-1059,Alfa Romeo,8,17,0,0,93.354,,,France
-1059,Haas,853,18,0,0,93.554,,,France
-1059,Aston Martin,840,19,0,0,,,,France
-1059,AlphaTauri,852,20,0,0,,,,France
-1058,Red Bull Racing,830,1,1,1,64.489,64.43299999999999,63.841,Styria
-1058,Mercedes,822,2,1,1,64.537,64.443,64.035,Styria
-1058,Mercedes,1,3,1,1,64.672,64.512,64.06700000000001,Styria
-1058,McLaren,846,4,1,1,64.584,64.298,64.12,Styria
-1058,Red Bull Racing,815,5,1,1,64.638,64.197,64.168,Styria
-1058,AlphaTauri,842,6,1,1,64.765,64.429,64.236,Styria
-1058,Ferrari,844,7,1,1,64.745,64.646,64.472,Styria
-1058,AlphaTauri,852,8,1,1,64.608,64.631,64.514,Styria
-1058,Alpine,4,9,1,1,64.971,64.582,64.574,Styria
-1058,Aston Martin,840,10,1,1,64.821,64.663,64.708,Styria
-1058,Williams,847,11,1,0,65.033,64.671,,Styria
-1058,Ferrari,832,12,1,0,64.859,64.8,,Styria
-1058,McLaren,817,13,1,0,65.142,64.80799999999999,,Styria
-1058,Aston Martin,20,14,1,0,65.051,64.875,,Styria
-1058,Alfa Romeo,841,15,1,0,65.092,64.913,,Styria
-1058,Williams,849,16,0,0,65.175,,,Styria
-1058,Alpine,839,17,0,0,65.217,,,Styria
-1058,Alfa Romeo,8,18,0,0,65.429,,,Styria
-1058,Haas,854,19,0,0,66.041,,,Styria
-1058,Haas,853,20,0,0,66.19200000000001,,,Styria
-1060,Red Bull Racing,830,1,1,1,64.249,63.927,63.72,Austria
-1060,McLaren,846,2,1,1,64.345,64.415,63.768,Austria
-1060,Red Bull Racing,815,3,1,1,64.833,64.483,63.99,Austria
-1060,Mercedes,1,4,1,1,64.506,64.258,64.014,Austria
-1060,Mercedes,822,5,1,1,64.563,64.376,64.049,Austria
-1060,AlphaTauri,842,6,1,1,64.841,64.412,64.107,Austria
-1060,AlphaTauri,852,7,1,1,64.967,64.518,64.273,Austria
-1060,Aston Martin,20,8,1,1,64.846,64.493,64.57,Austria
-1060,Williams,847,9,1,1,64.907,64.553,64.591,Austria
-1060,Aston Martin,840,10,1,1,64.92699999999999,64.547,64.618,Austria
-1060,Ferrari,832,11,1,0,64.596,64.559,,Austria
-1060,Ferrari,844,12,1,0,64.906,64.6,,Austria
-1060,McLaren,817,13,1,0,64.977,64.719,,Austria
-1060,Alpine,4,14,1,0,64.472,64.856,,Austria
-1060,Alfa Romeo,841,15,1,0,64.782,65.083,,Austria
-1060,Alfa Romeo,8,16,0,0,65.009,,,Austria
-1060,Alpine,839,17,0,0,65.051,,,Austria
-1060,Williams,849,18,0,0,65.195,,,Austria
-1060,Haas,854,19,0,0,65.42699999999999,,,Austria
-1060,Haas,853,20,0,0,65.951,,,Austria
-1061,Mercedes,1,1,1,1,86.786,86.023,86.134,Great Britain
-1061,Red Bull Racing,830,2,1,1,86.751,86.315,86.209,Great Britain
-1061,Mercedes,822,3,1,1,87.487,86.764,86.328,Great Britain
-1061,Ferrari,844,4,1,1,87.051,86.919,86.828,Great Britain
-1061,Red Bull Racing,815,5,1,1,87.121,87.07300000000001,86.844,Great Britain
-1061,McLaren,846,6,1,1,87.444,87.22,86.89699999999999,Great Britain
-1061,McLaren,817,7,1,1,87.32300000000001,87.125,86.899,Great Britain
-1061,Williams,847,8,1,1,87.67099999999999,87.08,86.971,Great Britain
-1061,Ferrari,832,9,1,1,87.337,86.848,87.007,Great Britain
-1061,Aston Martin,20,10,1,1,87.493,87.10300000000001,87.179,Great Britain
-1061,Alpine,4,11,1,0,87.58,87.245,,Great Britain
-1061,AlphaTauri,842,12,1,0,87.6,87.273,,Great Britain
-1061,Alpine,839,13,1,0,87.41499999999999,87.34,,Great Britain
-1061,Alfa Romeo,841,14,1,0,87.595,87.617,,Great Britain
-1061,Aston Martin,840,15,1,0,88.017,87.66499999999999,,Great Britain
-1061,AlphaTauri,852,16,0,0,88.043,,,Great Britain
-1061,Alfa Romeo,8,17,0,0,88.062,,,Great Britain
-1061,Williams,849,18,0,0,88.254,,,Great Britain
-1061,Haas,854,19,0,0,88.738,,,Great Britain
-1061,Haas,853,20,0,0,89.051,,,Great Britain
-1062,Mercedes,1,1,1,1,76.424,76.553,75.419,Hungary
-1062,Mercedes,822,2,1,1,76.569,76.702,75.734,Hungary
-1062,Red Bull Racing,830,3,1,1,76.214,75.65,75.84,Hungary
-1062,Red Bull Racing,815,4,1,1,77.233,76.443,76.42099999999999,Hungary
-1062,AlphaTauri,842,5,1,1,76.874,76.394,76.483,Hungary
-1062,McLaren,846,6,1,1,77.081,76.385,76.489,Hungary
-1062,Ferrari,844,7,1,1,77.084,76.574,76.496,Hungary
-1062,Alpine,839,8,1,1,77.367,76.76599999999999,76.65299999999999,Hungary
-1062,Alpine,4,9,1,1,77.123,76.541,76.715,Hungary
-1062,Aston Martin,20,10,1,1,77.105,76.794,76.75,Hungary
-1062,McLaren,817,11,1,0,77.664,76.871,,Hungary
-1062,Aston Martin,840,12,1,0,77.038,76.893,,Hungary
-1062,Alfa Romeo,8,13,1,0,77.553,77.564,,Hungary
-1062,Alfa Romeo,841,14,1,0,77.776,77.583,,Hungary
-1062,Ferrari,832,15,0,0,76.649,,,Hungary
-1062,AlphaTauri,852,16,0,0,77.919,,,Hungary
-1062,Williams,847,17,0,0,77.944,,,Hungary
-1062,Williams,849,18,0,0,78.036,,,Hungary
-1062,Haas,853,19,0,0,78.922,,,Hungary
-1062,Haas,854,20,0,0,,,,Hungary
-1063,Red Bull Racing,830,1,1,1,118.717,116.559,119.765,Belgium
-1063,Williams,847,2,1,1,119.864,116.95,120.086,Belgium
-1063,Mercedes,1,3,1,1,119.218,116.229,120.099,Belgium
-1063,McLaren,817,4,1,1,121.583,117.12700000000001,120.864,Belgium
-1063,Aston Martin,20,5,1,1,120.175,116.814,120.935,Belgium
-1063,AlphaTauri,842,6,1,1,120.387,116.44,121.164,Belgium
-1063,Red Bull Racing,815,7,1,1,119.334,116.886,122.112,Belgium
-1063,Mercedes,822,8,1,1,119.87,116.295,122.502,Belgium
-1063,Alpine,839,9,1,1,121.824,117.354,123.513,Belgium
-1063,McLaren,846,10,1,0,118.301,116.025,,Belgium
-1063,Ferrari,844,11,1,0,120.728,117.721,,Belgium
-1063,Williams,849,12,1,0,120.966,118.056,,Belgium
-1063,Ferrari,832,13,1,0,121.184,118.137,,Belgium
-1063,Alpine,4,14,1,0,121.653,118.205,,Belgium
-1063,Aston Martin,840,15,1,0,121.597,118.231,,Belgium
-1063,Alfa Romeo,841,16,0,0,122.306,,,Belgium
-1063,AlphaTauri,852,17,0,0,122.413,,,Belgium
-1063,Haas,854,18,0,0,123.973,,,Belgium
-1063,Alfa Romeo,8,19,0,0,124.452,,,Belgium
-1063,Haas,853,20,0,0,124.939,,,Belgium
-1064,Red Bull Racing,830,1,1,1,70.036,69.071,68.885,Netherlands
-1064,Mercedes,1,2,1,1,70.114,69.726,68.923,Netherlands
-1064,Mercedes,822,3,1,1,70.219,69.769,69.222,Netherlands
-1064,AlphaTauri,842,4,1,1,70.274,69.541,69.478,Netherlands
-1064,Ferrari,844,5,1,1,69.82900000000001,69.437,69.527,Netherlands
-1064,Ferrari,832,6,1,1,70.022,69.87,69.537,Netherlands
-1064,Alfa Romeo,841,7,1,1,70.05,70.033,69.59,Netherlands
-1064,Alpine,839,8,1,1,70.179,69.919,69.93299999999999,Netherlands
-1064,Alpine,4,9,1,1,70.435,70.02,69.956,Netherlands
-1064,McLaren,817,10,1,1,70.255,69.865,70.166,Netherlands
-1064,Williams,847,11,1,0,70.382,70.332,,Netherlands
-1064,Aston Martin,840,12,1,0,70.438,70.367,,Netherlands
-1064,McLaren,846,13,1,0,70.489,70.406,,Netherlands
-1064,Williams,849,14,1,0,70.093,71.161,,Netherlands
-1064,AlphaTauri,852,15,1,0,70.462,71.314,,Netherlands
-1064,Red Bull Racing,815,16,0,0,70.53,,,Netherlands
-1064,Aston Martin,20,17,0,0,70.731,,,Netherlands
-1064,Alfa Romeo,9,18,0,0,71.301,,,Netherlands
-1064,Haas,854,19,0,0,71.387,,,Netherlands
-1064,Haas,853,20,0,0,71.875,,,Netherlands
-1065,Mercedes,822,1,1,1,80.685,80.032,79.555,Italy
-1065,Mercedes,1,2,1,1,80.543,79.936,79.651,Italy
-1065,Red Bull Racing,830,3,1,1,81.035,80.229,79.96600000000001,Italy
-1065,McLaren,846,4,1,1,80.916,80.059,79.989,Italy
-1065,McLaren,817,5,1,1,81.292,80.435,79.995,Italy
-1065,AlphaTauri,842,6,1,1,81.44,80.556,80.26,Italy
-1065,Ferrari,832,7,1,1,81.118,80.75,80.462,Italy
-1065,Ferrari,844,8,1,1,81.219,80.767,80.51,Italy
-1065,Red Bull Racing,815,9,1,1,81.30799999999999,80.882,80.611,Italy
-1065,Alfa Romeo,841,10,1,1,81.197,80.726,80.80799999999999,Italy
-1065,Aston Martin,20,11,1,0,81.394,80.913,,Italy
-1065,Aston Martin,840,12,1,0,81.41499999999999,81.02,,Italy
-1065,Alpine,4,13,1,0,81.487,81.069,,Italy
-1065,Alpine,839,14,1,0,81.5,81.10300000000001,,Italy
-1065,Williams,847,15,1,0,81.89,81.392,,Italy
-1065,Williams,849,16,0,0,81.925,,,Italy
-1065,AlphaTauri,852,17,0,0,81.973,,,Italy
-1065,Haas,854,18,0,0,82.248,,,Italy
-1065,Alfa Romeo,9,19,0,0,82.53,,,Italy
-1065,Haas,853,20,0,0,82.71600000000001,,,Italy
-1066,McLaren,846,1,1,1,107.238,105.827,101.993,Russia
-1066,Ferrari,832,2,1,1,107.924,106.521,102.50999999999999,Russia
-1066,Williams,847,3,1,1,108.303,106.435,102.983,Russia
-1066,Mercedes,1,4,1,1,105.99199999999999,105.12899999999999,104.05,Russia
-1066,McLaren,817,5,1,1,108.345,106.36099999999999,104.156,Russia
-1066,Alpine,4,6,1,1,107.87700000000001,105.51400000000001,104.20400000000001,Russia
-1066,Mercedes,822,7,1,1,106.396,105.306,104.71000000000001,Russia
-1066,Aston Martin,840,8,1,1,108.322,106.36,104.956,Russia
-1066,Red Bull Racing,815,9,1,1,106.455,105.834,105.337,Russia
-1066,Alpine,839,10,1,1,108.09899999999999,106.07,105.86500000000001,Russia
-1066,Aston Martin,20,11,1,0,107.205,106.57300000000001,,Russia
-1066,AlphaTauri,842,12,1,0,107.828,106.64099999999999,,Russia
-1066,AlphaTauri,852,13,1,0,108.854,106.751,,Russia
-1066,Williams,849,14,0,0,108.25200000000001,,,Russia
-1066,Ferrari,844,15,0,0,108.47,,,Russia
-1066,Alfa Romeo,8,16,0,0,109.586,,,Russia
-1066,Haas,854,17,0,0,109.83,,,Russia
-1066,Alfa Romeo,841,18,0,0,111.023,,,Russia
-1066,Haas,853,19,0,0,113.76400000000001,,,Russia
-1066,Red Bull Racing,830,20,0,0,,,,Russia
-1067,Mercedes,1,1,1,1,84.58500000000001,83.082,82.868,Turkey
-1067,Mercedes,822,2,1,1,85.047,83.57900000000001,82.998,Turkey
-1067,Red Bull Racing,830,3,1,1,84.592,83.732,83.196,Turkey
-1067,Ferrari,844,4,1,1,84.869,84.015,83.265,Turkey
-1067,AlphaTauri,842,5,1,1,84.70400000000001,83.81700000000001,83.326,Turkey
-1067,Alpine,4,6,1,1,85.174,83.914,83.477,Turkey
-1067,Red Bull Racing,815,7,1,1,84.963,83.961,83.706,Turkey
-1067,McLaren,846,8,1,1,85.138,84.642,83.95400000000001,Turkey
-1067,Aston Martin,840,9,1,1,85.511,84.601,84.305,Turkey
-1067,AlphaTauri,852,10,1,1,85.40899999999999,84.054,84.368,Turkey
-1067,Aston Martin,20,11,1,0,85.787,84.795,,Turkey
-1067,Alpine,839,12,1,0,85.422,84.842,,Turkey
-1067,Williams,847,13,1,0,85.417,85.007,,Turkey
-1067,Haas,854,14,1,0,85.555,85.2,,Turkey
-1067,Ferrari,832,15,0,0,85.17699999999999,,,Turkey
-1067,McLaren,817,16,0,0,85.881,,,Turkey
-1067,Williams,849,17,0,0,86.086,,,Turkey
-1067,Alfa Romeo,841,18,0,0,86.43,,,Turkey
-1067,Alfa Romeo,8,19,0,0,87.525,,,Turkey
-1067,Haas,853,20,0,0,88.449,,,Turkey
-1069,Red Bull Racing,830,1,1,1,94.352,93.464,92.91,United States
-1069,Mercedes,1,2,1,1,94.57900000000001,93.797,93.119,United States
-1069,Red Bull Racing,815,3,1,1,94.369,94.178,93.134,United States
-1069,Mercedes,822,4,1,1,94.59,93.959,93.475,United States
-1069,Ferrari,844,5,1,1,94.15299999999999,93.928,93.606,United States
-1069,Ferrari,832,6,1,1,94.55799999999999,94.126,93.792,United States
-1069,McLaren,817,7,1,1,94.407,94.643,93.80799999999999,United States
-1069,McLaren,846,8,1,1,94.551,93.88,93.887,United States
-1069,AlphaTauri,842,9,1,1,94.56700000000001,94.583,94.118,United States
-1069,AlphaTauri,852,10,1,1,95.36,95.137,94.918,United States
-1069,Alpine,839,11,1,0,95.747,95.37700000000001,,United States
-1069,Aston Martin,20,12,1,0,95.281,95.5,,United States
-1069,Alfa Romeo,841,13,1,0,95.92,95.794,,United States
-1069,Alpine,4,14,1,0,95.756,104.549,,United States
-1069,Williams,847,15,0,0,95.74600000000001,,,United States
-1069,Aston Martin,840,16,0,0,95.983,,,United States
-1069,Williams,849,17,0,0,95.995,,,United States
-1069,Alfa Romeo,8,18,0,0,96.311,,,United States
-1069,Haas,854,19,0,0,96.499,,,United States
-1069,Haas,853,20,0,0,96.79599999999999,,,United States
-1070,Mercedes,822,1,1,1,76.727,76.864,75.875,Mexico
-1070,Mercedes,1,2,1,1,77.207,76.474,76.02,Mexico
-1070,Red Bull Racing,830,3,1,1,76.788,76.483,76.225,Mexico
-1070,Red Bull Racing,815,4,1,1,77.003,77.055,76.342,Mexico
-1070,AlphaTauri,842,5,1,1,76.908,76.955,76.456,Mexico
-1070,Ferrari,832,6,1,1,77.517,77.248,76.761,Mexico
-1070,McLaren,817,7,1,1,77.719,77.092,76.763,Mexico
-1070,Ferrari,844,8,1,1,76.748,77.03399999999999,76.837,Mexico
-1070,AlphaTauri,852,9,1,1,77.33,76.701,77.158,Mexico
-1070,McLaren,846,10,1,1,77.569,77.473,96.83,Mexico
-1070,Aston Martin,20,11,1,0,77.502,77.746,,Mexico
-1070,Alfa Romeo,8,12,1,0,77.606,77.958,,Mexico
-1070,Williams,847,13,1,0,77.958,78.172,,Mexico
-1070,Alfa Romeo,841,14,1,0,77.89699999999999,78.28999999999999,,Mexico
-1070,Alpine,839,15,1,0,78.126,78.405,,Mexico
-1070,Alpine,4,16,0,0,78.452,,,Mexico
-1070,Williams,849,17,0,0,78.756,,,Mexico
-1070,Haas,854,18,0,0,78.858,,,Mexico
-1070,Haas,853,19,0,0,79.303,,,Mexico
-1070,Aston Martin,840,20,0,0,80.873,,,Mexico
-1071,Mercedes,1,1,1,1,68.733,68.068,67.934,Brazil
-1071,Red Bull Racing,830,2,1,1,69.32900000000001,68.499,68.372,Brazil
-1071,Mercedes,822,3,1,1,69.03999999999999,68.426,68.469,Brazil
-1071,Red Bull Racing,815,4,1,1,69.172,68.973,68.483,Brazil
-1071,AlphaTauri,842,5,1,1,69.347,68.903,68.777,Brazil
-1071,Ferrari,832,6,1,1,69.04599999999999,69.031,68.826,Brazil
-1071,Ferrari,844,7,1,1,69.155,68.859,68.96000000000001,Brazil
-1071,McLaren,846,8,1,1,69.365,69.03,68.98,Brazil
-1071,McLaren,817,9,1,1,69.374,69.093,69.039,Brazil
-1071,Alpine,4,10,1,1,69.391,69.137,69.113,Brazil
-1071,Alpine,839,11,1,0,69.43,69.189,,Brazil
-1071,Aston Martin,20,12,1,0,69.451,69.399,,Brazil
-1071,AlphaTauri,852,13,1,0,69.35,69.483,,Brazil
-1071,Alfa Romeo,8,14,1,0,69.598,69.503,,Brazil
-1071,Alfa Romeo,841,15,1,0,69.342,70.227,,Brazil
-1071,Aston Martin,840,16,0,0,69.663,,,Brazil
-1071,Williams,849,17,0,0,69.897,,,Brazil
-1071,Williams,847,18,0,0,69.953,,,Brazil
-1071,Haas,854,19,0,0,70.32900000000001,,,Brazil
-1071,Haas,853,20,0,0,70.589,,,Brazil
-1051,Mercedes,1,1,1,1,81.901,81.682,80.827,Qatar
-1051,Red Bull Racing,830,2,1,1,81.996,81.98400000000001,81.282,Qatar
-1051,Mercedes,822,3,1,1,82.01599999999999,81.991,81.47800000000001,Qatar
-1051,AlphaTauri,842,4,1,1,82.535,81.72800000000001,81.64,Qatar
-1051,Alpine,4,5,1,1,82.422,81.894,81.67,Qatar
-1051,McLaren,846,6,1,1,82.839,82.21600000000001,81.731,Qatar
-1051,Ferrari,832,7,1,1,82.304,82.241,81.84,Qatar
-1051,AlphaTauri,852,8,1,1,82.458,82.05799999999999,81.881,Qatar
-1051,Alpine,839,9,1,1,82.565,82.012,82.02799999999999,Qatar
-1051,Aston Martin,20,10,1,1,82.549,82.146,82.785,Qatar
-1051,Red Bull Racing,815,11,1,0,82.398,82.346,,Qatar
-1051,Aston Martin,840,12,1,0,82.551,82.46000000000001,,Qatar
-1051,Ferrari,844,13,1,0,82.742,82.463,,Qatar
-1051,McLaren,817,14,1,0,82.688,82.59700000000001,,Qatar
-1051,Williams,847,15,1,0,82.863,82.756,,Qatar
-1051,Alfa Romeo,8,16,0,0,83.156,,,Qatar
-1051,Williams,849,17,0,0,83.213,,,Qatar
-1051,Alfa Romeo,841,18,0,0,83.262,,,Qatar
-1051,Haas,854,19,0,0,83.407,,,Qatar
-1051,Haas,853,20,0,0,85.85900000000001,,,Qatar
-1072,Mercedes,1,1,1,1,88.46600000000001,87.712,87.511,Saudi Arabia
-1072,Mercedes,822,2,1,1,88.057,88.054,87.622,Saudi Arabia
-1072,Red Bull Racing,830,3,1,1,88.285,87.953,87.65299999999999,Saudi Arabia
-1072,Ferrari,844,4,1,1,88.31,88.459,88.054,Saudi Arabia
-1072,Red Bull Racing,815,5,1,1,88.021,87.946,88.123,Saudi Arabia
-1072,AlphaTauri,842,6,1,1,88.401,88.314,88.125,Saudi Arabia
-1072,McLaren,846,7,1,1,88.338,88.344,88.18,Saudi Arabia
-1072,AlphaTauri,852,8,1,1,88.503,88.22200000000001,88.44200000000001,Saudi Arabia
-1072,Alpine,839,9,1,1,88.752,88.574,88.64699999999999,Saudi Arabia
-1072,Alfa Romeo,841,10,1,1,88.899,88.616,88.754,Saudi Arabia
-1072,McLaren,817,11,1,0,88.21600000000001,88.668,,Saudi Arabia
-1072,Alfa Romeo,8,12,1,0,88.856,88.885,,Saudi Arabia
-1072,Alpine,4,13,1,0,88.944,88.92,,Saudi Arabia
-1072,Williams,847,14,1,0,88.926,89.054,,Saudi Arabia
-1072,Ferrari,832,15,1,0,88.237,113.652,,Saudi Arabia
-1072,Williams,849,16,0,0,89.17699999999999,,,Saudi Arabia
-1072,Aston Martin,20,17,0,0,89.19800000000001,,,Saudi Arabia
-1072,Aston Martin,840,18,0,0,89.368,,,Saudi Arabia
-1072,Haas,854,19,0,0,89.464,,,Saudi Arabia
-1072,Haas,853,20,0,0,90.473,,,Saudi Arabia
-1073,Red Bull Racing,830,1,1,1,83.322,82.8,82.10900000000001,Abu Dhabi
-1073,Mercedes,1,2,1,1,82.845,83.145,82.48,Abu Dhabi
-1073,McLaren,846,3,1,1,83.553,83.256,82.931,Abu Dhabi
-1073,Red Bull Racing,815,4,1,1,83.35,83.135,82.947,Abu Dhabi
-1073,Ferrari,832,5,1,1,83.624,83.174,82.992,Abu Dhabi
-1073,Mercedes,822,6,1,1,83.117,83.246,83.036,Abu Dhabi
-1073,Ferrari,844,7,1,1,83.467,83.202,83.122,Abu Dhabi
-1073,AlphaTauri,852,8,1,1,83.428,83.404,83.22,Abu Dhabi
-1073,Alpine,839,9,1,1,83.764,83.42,83.389,Abu Dhabi
-1073,McLaren,817,10,1,1,83.82900000000001,83.44800000000001,83.40899999999999,Abu Dhabi
-1073,Alpine,4,11,1,0,83.846,83.46000000000001,,Abu Dhabi
-1073,AlphaTauri,842,12,1,0,83.489,84.043,,Abu Dhabi
-1073,Aston Martin,840,13,1,0,84.061,84.066,,Abu Dhabi
-1073,Alfa Romeo,841,14,1,0,84.118,84.251,,Abu Dhabi
-1073,Aston Martin,20,15,1,0,84.225,84.305,,Abu Dhabi
-1073,Williams,849,16,0,0,84.338,,,Abu Dhabi
-1073,Williams,847,17,0,0,84.423,,,Abu Dhabi
-1073,Alfa Romeo,8,18,0,0,84.779,,,Abu Dhabi
-1073,Haas,854,19,0,0,84.906,,,Abu Dhabi
-1073,Haas,853,20,0,0,85.685,,,Abu Dhabi
+raceId,Team,kaggle_driver_id,position,participated_q2,participated_q3,q1_time_sec,q2_time_sec,q3_time_sec,Track,rain,sunny
+1052,Red Bull Racing,830,1,1,1,90.499,90.318,88.997,Bahrain,0,1
+1052,Mercedes,1,2,1,1,90.617,90.085,89.385,Bahrain,0,1
+1052,Mercedes,822,3,1,1,91.2,90.186,89.586,Bahrain,0,1
+1052,Ferrari,844,4,1,1,90.691,90.01,89.678,Bahrain,0,1
+1052,AlphaTauri,842,5,1,1,90.848,90.513,89.809,Bahrain,0,1
+1052,McLaren,817,6,1,1,90.795,90.222,89.92699999999999,Bahrain,0,1
+1052,McLaren,846,7,1,1,90.902,90.099,89.974,Bahrain,0,1
+1052,Ferrari,832,8,1,1,91.653,90.009,90.215,Bahrain,0,1
+1052,Alpine,4,9,1,1,90.863,90.595,90.249,Bahrain,0,1
+1052,Aston Martin,840,10,1,1,91.261,90.624,90.601,Bahrain,0,1
+1052,Red Bull Racing,815,11,1,0,91.165,90.659,,Bahrain,0,1
+1052,Alfa Romeo,841,12,1,0,90.998,90.708,,Bahrain,0,1
+1052,AlphaTauri,852,13,1,0,90.607,91.203,,Bahrain,0,1
+1052,Alfa Romeo,8,14,1,0,91.547,91.238,,Bahrain,0,1
+1052,Williams,847,15,1,0,91.316,93.43,,Bahrain,0,1
+1052,Alpine,839,16,0,0,91.724,,,Bahrain,0,1
+1052,Williams,849,17,0,0,91.936,,,Bahrain,0,1
+1052,Aston Martin,20,18,0,0,92.056,,,Bahrain,0,1
+1052,Haas,854,19,0,0,92.449,,,Bahrain,0,1
+1052,Haas,853,20,0,0,93.273,,,Bahrain,0,1
+1053,Mercedes,1,1,1,1,74.82300000000001,74.81700000000001,74.411,Emilia Romagna,0,1
+1053,Red Bull Racing,815,2,1,1,75.395,74.716,74.446,Emilia Romagna,0,1
+1053,Red Bull Racing,830,3,1,1,75.109,74.884,74.498,Emilia Romagna,0,1
+1053,Ferrari,844,4,1,1,75.413,74.80799999999999,74.74,Emilia Romagna,0,1
+1053,AlphaTauri,842,5,1,1,75.548,74.92699999999999,74.78999999999999,Emilia Romagna,0,1
+1053,McLaren,817,6,1,1,75.669,75.033,74.826,Emilia Romagna,0,1
+1053,McLaren,846,7,1,1,75.009,74.718,74.875,Emilia Romagna,0,1
+1053,Mercedes,822,8,1,1,74.672,74.905,74.898,Emilia Romagna,0,1
+1053,Alpine,839,9,1,1,75.385,75.117,75.21000000000001,Emilia Romagna,0,1
+1053,Aston Martin,840,10,1,0,75.522,75.138,,Emilia Romagna,0,1
+1053,Ferrari,832,11,1,0,75.406,75.199,,Emilia Romagna,0,1
+1053,Williams,847,12,1,0,75.826,75.261,,Emilia Romagna,0,1
+1053,Aston Martin,20,13,1,0,75.459,75.394,,Emilia Romagna,0,1
+1053,Williams,849,14,1,0,75.653,75.593,,Emilia Romagna,0,1
+1053,Alpine,4,15,1,0,75.832,75.593,,Emilia Romagna,0,1
+1053,Alfa Romeo,8,16,0,0,75.974,,,Emilia Romagna,0,1
+1053,Alfa Romeo,841,17,0,0,76.122,,,Emilia Romagna,0,1
+1053,Haas,854,18,0,0,76.279,,,Emilia Romagna,0,1
+1053,Haas,853,19,0,0,76.797,,,Emilia Romagna,0,1
+1053,AlphaTauri,852,20,0,0,,,,Emilia Romagna,0,1
+1054,Mercedes,822,1,1,1,78.72200000000001,78.458,78.348,Portugal,0,1
+1054,Mercedes,1,2,1,1,78.857,77.968,78.355,Portugal,0,1
+1054,Red Bull Racing,830,3,1,1,79.485,78.65,78.746,Portugal,0,1
+1054,Red Bull Racing,815,4,1,1,79.337,78.845,78.89,Portugal,0,1
+1054,Ferrari,832,5,1,1,79.309,78.813,79.039,Portugal,0,1
+1054,Alpine,839,6,1,1,79.092,78.586,79.042,Portugal,0,1
+1054,McLaren,846,7,1,1,78.794,78.481,79.116,Portugal,0,1
+1054,Ferrari,844,8,1,1,79.373,78.769,79.306,Portugal,0,1
+1054,AlphaTauri,842,9,1,1,79.464,79.05199999999999,79.475,Portugal,0,1
+1054,Aston Martin,20,10,1,1,79.40299999999999,78.97,79.65899999999999,Portugal,0,1
+1054,Williams,847,11,1,0,79.797,79.10900000000001,,Portugal,0,1
+1054,Alfa Romeo,841,12,1,0,79.41,79.21600000000001,,Portugal,0,1
+1054,Alpine,4,13,1,0,79.72800000000001,79.456,,Portugal,0,1
+1054,AlphaTauri,852,14,1,0,79.684,79.463,,Portugal,0,1
+1054,Alfa Romeo,8,15,1,0,79.748,79.812,,Portugal,0,1
+1054,McLaren,817,16,0,0,79.839,,,Portugal,0,1
+1054,Aston Martin,840,17,0,0,79.913,,,Portugal,0,1
+1054,Williams,849,18,0,0,80.285,,,Portugal,0,1
+1054,Haas,854,19,0,0,80.452,,,Portugal,0,1
+1054,Haas,853,20,0,0,80.912,,,Portugal,0,1
+1055,Mercedes,1,1,1,1,78.245,77.166,76.741,Spain,0,1
+1055,Red Bull Racing,830,2,1,1,78.09,76.922,76.777,Spain,0,1
+1055,Mercedes,822,3,1,1,78.005,77.142,76.873,Spain,0,1
+1055,Ferrari,844,4,1,1,78.041,77.717,77.51,Spain,0,1
+1055,Alpine,839,5,1,1,78.281,77.743,77.58,Spain,0,1
+1055,Ferrari,832,6,1,1,78.205,77.656,77.62,Spain,0,1
+1055,McLaren,817,7,1,1,78.264,77.719,77.622,Spain,0,1
+1055,Red Bull Racing,815,8,1,1,78.203,77.669,77.701,Spain,0,1
+1055,McLaren,846,9,1,1,77.821,77.696,78.01,Spain,0,1
+1055,Alpine,4,10,1,1,78.281,77.96600000000001,78.14699999999999,Spain,0,1
+1055,Aston Martin,840,11,1,0,78.241,77.974,,Spain,0,1
+1055,AlphaTauri,842,12,1,0,78.19,77.982,,Spain,0,1
+1055,Aston Martin,20,13,1,0,78.289,78.07900000000001,,Spain,0,1
+1055,Alfa Romeo,841,14,1,0,78.549,78.356,,Spain,0,1
+1055,Williams,847,15,1,0,78.445,79.154,,Spain,0,1
+1055,AlphaTauri,852,16,0,0,78.556,,,Spain,0,1
+1055,Alfa Romeo,8,17,0,0,78.917,,,Spain,0,1
+1055,Haas,854,18,0,0,79.117,,,Spain,0,1
+1055,Williams,849,19,0,0,79.219,,,Spain,0,1
+1055,Haas,853,20,0,0,79.807,,,Spain,0,1
+1056,Ferrari,844,1,1,1,71.113,70.597,70.346,Monaco,0,1
+1056,Red Bull Racing,830,2,1,1,71.124,70.65,70.576,Monaco,0,1
+1056,Mercedes,822,3,1,1,70.938,70.695,70.601,Monaco,0,1
+1056,Ferrari,832,4,1,1,71.324,70.806,70.611,Monaco,0,1
+1056,McLaren,846,5,1,1,71.321,71.031,70.62,Monaco,0,1
+1056,AlphaTauri,842,6,1,1,71.56,71.179,70.9,Monaco,0,1
+1056,Mercedes,1,7,1,1,71.622,71.116,71.095,Monaco,0,1
+1056,Aston Martin,20,8,1,1,72.078,71.309,71.419,Monaco,0,1
+1056,Red Bull Racing,815,9,1,1,71.644,71.019,71.57300000000001,Monaco,0,1
+1056,Alfa Romeo,841,10,1,1,71.658,71.409,71.779,Monaco,0,1
+1056,Alpine,839,11,1,0,71.74,71.486,,Monaco,0,1
+1056,McLaren,817,12,1,0,71.747,71.598,,Monaco,0,1
+1056,Aston Martin,840,13,1,0,71.979,71.6,,Monaco,0,1
+1056,Alfa Romeo,8,14,1,0,71.899,71.642,,Monaco,0,1
+1056,Williams,847,15,1,0,72.016,71.83,,Monaco,0,1
+1056,AlphaTauri,852,16,0,0,72.096,,,Monaco,0,1
+1056,Alpine,4,17,0,0,72.205,,,Monaco,0,1
+1056,Williams,849,18,0,0,72.366,,,Monaco,0,1
+1056,Haas,853,19,0,0,72.958,,,Monaco,0,1
+1057,Ferrari,844,1,1,1,102.241,101.659,101.218,Azerbaijan,0,1
+1057,Mercedes,1,2,1,1,101.545,101.634,101.45,Azerbaijan,0,1
+1057,Red Bull Racing,830,3,1,1,101.76,101.625,101.563,Azerbaijan,0,1
+1057,AlphaTauri,842,4,1,1,102.288,101.932,101.565,Azerbaijan,0,1
+1057,Ferrari,832,5,1,1,102.121,101.74,101.576,Azerbaijan,0,1
+1057,McLaren,846,6,1,1,102.167,101.813,101.747,Azerbaijan,0,1
+1057,Red Bull Racing,815,7,1,1,101.968,101.63,101.917,Azerbaijan,0,1
+1057,AlphaTauri,852,8,1,1,102.521,101.654,102.211,Azerbaijan,0,1
+1057,Alpine,4,9,1,1,102.934,102.195,102.327,Azerbaijan,0,1
+1057,Mercedes,822,10,1,1,102.701,102.106,102.659,Azerbaijan,0,1
+1057,Aston Martin,20,11,1,0,102.46,102.224,,Azerbaijan,0,1
+1057,Alpine,839,12,1,0,102.426,102.273,,Azerbaijan,0,1
+1057,McLaren,817,13,1,0,102.304,102.558,,Azerbaijan,0,1
+1057,Alfa Romeo,8,14,1,0,102.923,102.587,,Azerbaijan,0,1
+1057,Williams,847,15,1,0,102.728,102.758,,Azerbaijan,0,1
+1057,Williams,849,16,0,0,103.128,,,Azerbaijan,0,1
+1057,Haas,854,17,0,0,104.158,,,Azerbaijan,0,1
+1057,Haas,853,18,0,0,104.238,,,Azerbaijan,0,1
+1057,Aston Martin,840,19,0,0,,,,Azerbaijan,0,1
+1057,Alfa Romeo,841,20,0,0,,,,Azerbaijan,0,1
+1059,Red Bull Racing,830,1,1,1,91.001,91.08,89.99,France,0,1
+1059,Mercedes,1,2,1,1,91.237,90.788,90.248,France,0,1
+1059,Mercedes,822,3,1,1,91.669,90.735,90.376,France,0,1
+1059,Red Bull Racing,815,4,1,1,91.56,90.971,90.445,France,0,1
+1059,Ferrari,832,5,1,1,92.079,91.146,90.84,France,0,1
+1059,AlphaTauri,842,6,1,1,91.898,91.353,90.868,France,0,1
+1059,Ferrari,844,7,1,1,92.209,91.567,90.987,France,0,1
+1059,McLaren,846,8,1,1,91.733,91.542,91.252,France,0,1
+1059,Alpine,4,9,1,1,92.158,91.549,91.34,France,0,1
+1059,McLaren,817,10,1,1,92.181,91.615,91.382,France,0,1
+1059,Alpine,839,11,1,0,92.139,91.736,,France,0,1
+1059,Aston Martin,20,12,1,0,92.132,91.767,,France,0,1
+1059,Alfa Romeo,841,13,1,0,92.722,91.813,,France,0,1
+1059,Williams,847,14,1,0,93.06,92.065,,France,0,1
+1059,Haas,854,15,0,0,92.942,,,France,0,1
+1059,Williams,849,16,0,0,93.062,,,France,0,1
+1059,Alfa Romeo,8,17,0,0,93.354,,,France,0,1
+1059,Haas,853,18,0,0,93.554,,,France,0,1
+1059,Aston Martin,840,19,0,0,,,,France,0,1
+1059,AlphaTauri,852,20,0,0,,,,France,0,1
+1058,Red Bull Racing,830,1,1,1,64.489,64.43299999999999,63.841,Styria,1,1
+1058,Mercedes,822,2,1,1,64.537,64.443,64.035,Styria,1,1
+1058,Mercedes,1,3,1,1,64.672,64.512,64.06700000000001,Styria,1,1
+1058,McLaren,846,4,1,1,64.584,64.298,64.12,Styria,1,1
+1058,Red Bull Racing,815,5,1,1,64.638,64.197,64.168,Styria,1,1
+1058,AlphaTauri,842,6,1,1,64.765,64.429,64.236,Styria,1,1
+1058,Ferrari,844,7,1,1,64.745,64.646,64.472,Styria,1,1
+1058,AlphaTauri,852,8,1,1,64.608,64.631,64.514,Styria,1,1
+1058,Alpine,4,9,1,1,64.971,64.582,64.574,Styria,1,1
+1058,Aston Martin,840,10,1,1,64.821,64.663,64.708,Styria,1,1
+1058,Williams,847,11,1,0,65.033,64.671,,Styria,1,1
+1058,Ferrari,832,12,1,0,64.859,64.8,,Styria,1,1
+1058,McLaren,817,13,1,0,65.142,64.80799999999999,,Styria,1,1
+1058,Aston Martin,20,14,1,0,65.051,64.875,,Styria,1,1
+1058,Alfa Romeo,841,15,1,0,65.092,64.913,,Styria,1,1
+1058,Williams,849,16,0,0,65.175,,,Styria,1,1
+1058,Alpine,839,17,0,0,65.217,,,Styria,1,1
+1058,Alfa Romeo,8,18,0,0,65.429,,,Styria,1,1
+1058,Haas,854,19,0,0,66.041,,,Styria,1,1
+1058,Haas,853,20,0,0,66.19200000000001,,,Styria,1,1
+1060,Red Bull Racing,830,1,1,1,64.249,63.927,63.72,Austria,0,1
+1060,McLaren,846,2,1,1,64.345,64.415,63.768,Austria,0,1
+1060,Red Bull Racing,815,3,1,1,64.833,64.483,63.99,Austria,0,1
+1060,Mercedes,1,4,1,1,64.506,64.258,64.014,Austria,0,1
+1060,Mercedes,822,5,1,1,64.563,64.376,64.049,Austria,0,1
+1060,AlphaTauri,842,6,1,1,64.841,64.412,64.107,Austria,0,1
+1060,AlphaTauri,852,7,1,1,64.967,64.518,64.273,Austria,0,1
+1060,Aston Martin,20,8,1,1,64.846,64.493,64.57,Austria,0,1
+1060,Williams,847,9,1,1,64.907,64.553,64.591,Austria,0,1
+1060,Aston Martin,840,10,1,1,64.92699999999999,64.547,64.618,Austria,0,1
+1060,Ferrari,832,11,1,0,64.596,64.559,,Austria,0,1
+1060,Ferrari,844,12,1,0,64.906,64.6,,Austria,0,1
+1060,McLaren,817,13,1,0,64.977,64.719,,Austria,0,1
+1060,Alpine,4,14,1,0,64.472,64.856,,Austria,0,1
+1060,Alfa Romeo,841,15,1,0,64.782,65.083,,Austria,0,1
+1060,Alfa Romeo,8,16,0,0,65.009,,,Austria,0,1
+1060,Alpine,839,17,0,0,65.051,,,Austria,0,1
+1060,Williams,849,18,0,0,65.195,,,Austria,0,1
+1060,Haas,854,19,0,0,65.42699999999999,,,Austria,0,1
+1060,Haas,853,20,0,0,65.951,,,Austria,0,1
+1061,Mercedes,1,1,1,1,86.786,86.023,86.134,Great Britain,0,1
+1061,Red Bull Racing,830,2,1,1,86.751,86.315,86.209,Great Britain,0,1
+1061,Mercedes,822,3,1,1,87.487,86.764,86.328,Great Britain,0,1
+1061,Ferrari,844,4,1,1,87.051,86.919,86.828,Great Britain,0,1
+1061,Red Bull Racing,815,5,1,1,87.121,87.07300000000001,86.844,Great Britain,0,1
+1061,McLaren,846,6,1,1,87.444,87.22,86.89699999999999,Great Britain,0,1
+1061,McLaren,817,7,1,1,87.32300000000001,87.125,86.899,Great Britain,0,1
+1061,Williams,847,8,1,1,87.67099999999999,87.08,86.971,Great Britain,0,1
+1061,Ferrari,832,9,1,1,87.337,86.848,87.007,Great Britain,0,1
+1061,Aston Martin,20,10,1,1,87.493,87.10300000000001,87.179,Great Britain,0,1
+1061,Alpine,4,11,1,0,87.58,87.245,,Great Britain,0,1
+1061,AlphaTauri,842,12,1,0,87.6,87.273,,Great Britain,0,1
+1061,Alpine,839,13,1,0,87.41499999999999,87.34,,Great Britain,0,1
+1061,Alfa Romeo,841,14,1,0,87.595,87.617,,Great Britain,0,1
+1061,Aston Martin,840,15,1,0,88.017,87.66499999999999,,Great Britain,0,1
+1061,AlphaTauri,852,16,0,0,88.043,,,Great Britain,0,1
+1061,Alfa Romeo,8,17,0,0,88.062,,,Great Britain,0,1
+1061,Williams,849,18,0,0,88.254,,,Great Britain,0,1
+1061,Haas,854,19,0,0,88.738,,,Great Britain,0,1
+1061,Haas,853,20,0,0,89.051,,,Great Britain,0,1
+1062,Mercedes,1,1,1,1,76.424,76.553,75.419,Hungary,1,1
+1062,Mercedes,822,2,1,1,76.569,76.702,75.734,Hungary,1,1
+1062,Red Bull Racing,830,3,1,1,76.214,75.65,75.84,Hungary,1,1
+1062,Red Bull Racing,815,4,1,1,77.233,76.443,76.42099999999999,Hungary,1,1
+1062,AlphaTauri,842,5,1,1,76.874,76.394,76.483,Hungary,1,1
+1062,McLaren,846,6,1,1,77.081,76.385,76.489,Hungary,1,1
+1062,Ferrari,844,7,1,1,77.084,76.574,76.496,Hungary,1,1
+1062,Alpine,839,8,1,1,77.367,76.76599999999999,76.65299999999999,Hungary,1,1
+1062,Alpine,4,9,1,1,77.123,76.541,76.715,Hungary,1,1
+1062,Aston Martin,20,10,1,1,77.105,76.794,76.75,Hungary,1,1
+1062,McLaren,817,11,1,0,77.664,76.871,,Hungary,1,1
+1062,Aston Martin,840,12,1,0,77.038,76.893,,Hungary,1,1
+1062,Alfa Romeo,8,13,1,0,77.553,77.564,,Hungary,1,1
+1062,Alfa Romeo,841,14,1,0,77.776,77.583,,Hungary,1,1
+1062,Ferrari,832,15,0,0,76.649,,,Hungary,1,1
+1062,AlphaTauri,852,16,0,0,77.919,,,Hungary,1,1
+1062,Williams,847,17,0,0,77.944,,,Hungary,1,1
+1062,Williams,849,18,0,0,78.036,,,Hungary,1,1
+1062,Haas,853,19,0,0,78.922,,,Hungary,1,1
+1062,Haas,854,20,0,0,,,,Hungary,1,1
+1063,Red Bull Racing,830,1,1,1,118.717,116.559,119.765,Belgium,1,0
+1063,Williams,847,2,1,1,119.864,116.95,120.086,Belgium,1,0
+1063,Mercedes,1,3,1,1,119.218,116.229,120.099,Belgium,1,0
+1063,McLaren,817,4,1,1,121.583,117.127,120.864,Belgium,1,0
+1063,Aston Martin,20,5,1,1,120.175,116.814,120.935,Belgium,1,0
+1063,AlphaTauri,842,6,1,1,120.387,116.44,121.164,Belgium,1,0
+1063,Red Bull Racing,815,7,1,1,119.334,116.886,122.112,Belgium,1,0
+1063,Mercedes,822,8,1,1,119.87,116.295,122.502,Belgium,1,0
+1063,Alpine,839,9,1,1,121.824,117.354,123.513,Belgium,1,0
+1063,McLaren,846,10,1,0,118.301,116.025,,Belgium,1,0
+1063,Ferrari,844,11,1,0,120.728,117.721,,Belgium,1,0
+1063,Williams,849,12,1,0,120.966,118.056,,Belgium,1,0
+1063,Ferrari,832,13,1,0,121.184,118.137,,Belgium,1,0
+1063,Alpine,4,14,1,0,121.653,118.205,,Belgium,1,0
+1063,Aston Martin,840,15,1,0,121.597,118.231,,Belgium,1,0
+1063,Alfa Romeo,841,16,0,0,122.306,,,Belgium,1,0
+1063,AlphaTauri,852,17,0,0,122.413,,,Belgium,1,0
+1063,Haas,854,18,0,0,123.973,,,Belgium,1,0
+1063,Alfa Romeo,8,19,0,0,124.452,,,Belgium,1,0
+1063,Haas,853,20,0,0,124.939,,,Belgium,1,0
+1064,Red Bull Racing,830,1,1,1,70.036,69.071,68.885,Netherlands,0,1
+1064,Mercedes,1,2,1,1,70.114,69.726,68.923,Netherlands,0,1
+1064,Mercedes,822,3,1,1,70.219,69.769,69.222,Netherlands,0,1
+1064,AlphaTauri,842,4,1,1,70.274,69.541,69.478,Netherlands,0,1
+1064,Ferrari,844,5,1,1,69.82900000000001,69.437,69.527,Netherlands,0,1
+1064,Ferrari,832,6,1,1,70.022,69.87,69.537,Netherlands,0,1
+1064,Alfa Romeo,841,7,1,1,70.05,70.033,69.59,Netherlands,0,1
+1064,Alpine,839,8,1,1,70.179,69.919,69.93299999999999,Netherlands,0,1
+1064,Alpine,4,9,1,1,70.435,70.02,69.956,Netherlands,0,1
+1064,McLaren,817,10,1,1,70.255,69.865,70.166,Netherlands,0,1
+1064,Williams,847,11,1,0,70.382,70.332,,Netherlands,0,1
+1064,Aston Martin,840,12,1,0,70.438,70.367,,Netherlands,0,1
+1064,McLaren,846,13,1,0,70.489,70.406,,Netherlands,0,1
+1064,Williams,849,14,1,0,70.093,71.161,,Netherlands,0,1
+1064,AlphaTauri,852,15,1,0,70.462,71.314,,Netherlands,0,1
+1064,Red Bull Racing,815,16,0,0,70.53,,,Netherlands,0,1
+1064,Aston Martin,20,17,0,0,70.731,,,Netherlands,0,1
+1064,Alfa Romeo,9,18,0,0,71.301,,,Netherlands,0,1
+1064,Haas,854,19,0,0,71.387,,,Netherlands,0,1
+1064,Haas,853,20,0,0,71.875,,,Netherlands,0,1
+1065,Mercedes,822,1,1,1,80.685,80.032,79.555,Italy,0,1
+1065,Mercedes,1,2,1,1,80.543,79.936,79.651,Italy,0,1
+1065,Red Bull Racing,830,3,1,1,81.035,80.229,79.96600000000001,Italy,0,1
+1065,McLaren,846,4,1,1,80.916,80.059,79.989,Italy,0,1
+1065,McLaren,817,5,1,1,81.292,80.435,79.995,Italy,0,1
+1065,AlphaTauri,842,6,1,1,81.44,80.556,80.26,Italy,0,1
+1065,Ferrari,832,7,1,1,81.118,80.75,80.462,Italy,0,1
+1065,Ferrari,844,8,1,1,81.219,80.767,80.51,Italy,0,1
+1065,Red Bull Racing,815,9,1,1,81.30799999999999,80.882,80.611,Italy,0,1
+1065,Alfa Romeo,841,10,1,1,81.197,80.726,80.80799999999999,Italy,0,1
+1065,Aston Martin,20,11,1,0,81.394,80.913,,Italy,0,1
+1065,Aston Martin,840,12,1,0,81.41499999999999,81.02,,Italy,0,1
+1065,Alpine,4,13,1,0,81.487,81.069,,Italy,0,1
+1065,Alpine,839,14,1,0,81.5,81.10300000000001,,Italy,0,1
+1065,Williams,847,15,1,0,81.89,81.392,,Italy,0,1
+1065,Williams,849,16,0,0,81.925,,,Italy,0,1
+1065,AlphaTauri,852,17,0,0,81.973,,,Italy,0,1
+1065,Haas,854,18,0,0,82.248,,,Italy,0,1
+1065,Alfa Romeo,9,19,0,0,82.53,,,Italy,0,1
+1065,Haas,853,20,0,0,82.71600000000001,,,Italy,0,1
+1066,McLaren,846,1,1,1,107.238,105.827,101.993,Russia,1,1
+1066,Ferrari,832,2,1,1,107.924,106.521,102.51,Russia,1,1
+1066,Williams,847,3,1,1,108.303,106.435,102.983,Russia,1,1
+1066,Mercedes,1,4,1,1,105.992,105.129,104.05,Russia,1,1
+1066,McLaren,817,5,1,1,108.345,106.361,104.156,Russia,1,1
+1066,Alpine,4,6,1,1,107.877,105.514,104.204,Russia,1,1
+1066,Mercedes,822,7,1,1,106.396,105.306,104.71,Russia,1,1
+1066,Aston Martin,840,8,1,1,108.322,106.36,104.956,Russia,1,1
+1066,Red Bull Racing,815,9,1,1,106.455,105.834,105.337,Russia,1,1
+1066,Alpine,839,10,1,1,108.099,106.07,105.865,Russia,1,1
+1066,Aston Martin,20,11,1,0,107.205,106.573,,Russia,1,1
+1066,AlphaTauri,842,12,1,0,107.828,106.641,,Russia,1,1
+1066,AlphaTauri,852,13,1,0,108.854,106.751,,Russia,1,1
+1066,Williams,849,14,0,0,108.252,,,Russia,1,1
+1066,Ferrari,844,15,0,0,108.47,,,Russia,1,1
+1066,Alfa Romeo,8,16,0,0,109.586,,,Russia,1,1
+1066,Haas,854,17,0,0,109.83,,,Russia,1,1
+1066,Alfa Romeo,841,18,0,0,111.023,,,Russia,1,1
+1066,Haas,853,19,0,0,113.764,,,Russia,1,1
+1066,Red Bull Racing,830,20,0,0,,,,Russia,1,1
+1067,Mercedes,1,1,1,1,84.58500000000001,83.082,82.868,Turkey,0,1
+1067,Mercedes,822,2,1,1,85.047,83.57900000000001,82.998,Turkey,0,1
+1067,Red Bull Racing,830,3,1,1,84.592,83.732,83.196,Turkey,0,1
+1067,Ferrari,844,4,1,1,84.869,84.015,83.265,Turkey,0,1
+1067,AlphaTauri,842,5,1,1,84.70400000000001,83.81700000000001,83.326,Turkey,0,1
+1067,Alpine,4,6,1,1,85.174,83.914,83.477,Turkey,0,1
+1067,Red Bull Racing,815,7,1,1,84.963,83.961,83.706,Turkey,0,1
+1067,McLaren,846,8,1,1,85.138,84.642,83.95400000000001,Turkey,0,1
+1067,Aston Martin,840,9,1,1,85.511,84.601,84.305,Turkey,0,1
+1067,AlphaTauri,852,10,1,1,85.40899999999999,84.054,84.368,Turkey,0,1
+1067,Aston Martin,20,11,1,0,85.787,84.795,,Turkey,0,1
+1067,Alpine,839,12,1,0,85.422,84.842,,Turkey,0,1
+1067,Williams,847,13,1,0,85.417,85.007,,Turkey,0,1
+1067,Haas,854,14,1,0,85.555,85.2,,Turkey,0,1
+1067,Ferrari,832,15,0,0,85.17699999999999,,,Turkey,0,1
+1067,McLaren,817,16,0,0,85.881,,,Turkey,0,1
+1067,Williams,849,17,0,0,86.086,,,Turkey,0,1
+1067,Alfa Romeo,841,18,0,0,86.43,,,Turkey,0,1
+1067,Alfa Romeo,8,19,0,0,87.525,,,Turkey,0,1
+1067,Haas,853,20,0,0,88.449,,,Turkey,0,1
+1069,Red Bull Racing,830,1,1,1,94.352,93.464,92.91,United States,0,1
+1069,Mercedes,1,2,1,1,94.579,93.797,93.119,United States,0,1
+1069,Red Bull Racing,815,3,1,1,94.369,94.178,93.134,United States,0,1
+1069,Mercedes,822,4,1,1,94.59,93.959,93.475,United States,0,1
+1069,Ferrari,844,5,1,1,94.153,93.928,93.606,United States,0,1
+1069,Ferrari,832,6,1,1,94.558,94.126,93.792,United States,0,1
+1069,McLaren,817,7,1,1,94.407,94.643,93.808,United States,0,1
+1069,McLaren,846,8,1,1,94.551,93.88,93.887,United States,0,1
+1069,AlphaTauri,842,9,1,1,94.567,94.583,94.118,United States,0,1
+1069,AlphaTauri,852,10,1,1,95.36,95.137,94.918,United States,0,1
+1069,Alpine,839,11,1,0,95.747,95.377,,United States,0,1
+1069,Aston Martin,20,12,1,0,95.281,95.5,,United States,0,1
+1069,Alfa Romeo,841,13,1,0,95.92,95.794,,United States,0,1
+1069,Alpine,4,14,1,0,95.756,104.549,,United States,0,1
+1069,Williams,847,15,0,0,95.746,,,United States,0,1
+1069,Aston Martin,840,16,0,0,95.983,,,United States,0,1
+1069,Williams,849,17,0,0,95.995,,,United States,0,1
+1069,Alfa Romeo,8,18,0,0,96.311,,,United States,0,1
+1069,Haas,854,19,0,0,96.499,,,United States,0,1
+1069,Haas,853,20,0,0,96.796,,,United States,0,1
+1070,Mercedes,822,1,1,1,76.727,76.864,75.875,Mexico,0,1
+1070,Mercedes,1,2,1,1,77.207,76.474,76.02,Mexico,0,1
+1070,Red Bull Racing,830,3,1,1,76.788,76.483,76.225,Mexico,0,1
+1070,Red Bull Racing,815,4,1,1,77.003,77.055,76.342,Mexico,0,1
+1070,AlphaTauri,842,5,1,1,76.908,76.955,76.456,Mexico,0,1
+1070,Ferrari,832,6,1,1,77.517,77.248,76.761,Mexico,0,1
+1070,McLaren,817,7,1,1,77.719,77.092,76.763,Mexico,0,1
+1070,Ferrari,844,8,1,1,76.748,77.03399999999999,76.837,Mexico,0,1
+1070,AlphaTauri,852,9,1,1,77.33,76.701,77.158,Mexico,0,1
+1070,McLaren,846,10,1,1,77.569,77.473,96.83,Mexico,0,1
+1070,Aston Martin,20,11,1,0,77.502,77.746,,Mexico,0,1
+1070,Alfa Romeo,8,12,1,0,77.606,77.958,,Mexico,0,1
+1070,Williams,847,13,1,0,77.958,78.172,,Mexico,0,1
+1070,Alfa Romeo,841,14,1,0,77.89699999999999,78.28999999999999,,Mexico,0,1
+1070,Alpine,839,15,1,0,78.126,78.405,,Mexico,0,1
+1070,Alpine,4,16,0,0,78.452,,,Mexico,0,1
+1070,Williams,849,17,0,0,78.756,,,Mexico,0,1
+1070,Haas,854,18,0,0,78.858,,,Mexico,0,1
+1070,Haas,853,19,0,0,79.303,,,Mexico,0,1
+1070,Aston Martin,840,20,0,0,80.873,,,Mexico,0,1
+1071,Mercedes,1,1,1,1,68.733,68.068,67.934,Brazil,0,1
+1071,Red Bull Racing,830,2,1,1,69.32900000000001,68.499,68.372,Brazil,0,1
+1071,Mercedes,822,3,1,1,69.03999999999999,68.426,68.469,Brazil,0,1
+1071,Red Bull Racing,815,4,1,1,69.172,68.973,68.483,Brazil,0,1
+1071,AlphaTauri,842,5,1,1,69.347,68.903,68.777,Brazil,0,1
+1071,Ferrari,832,6,1,1,69.04599999999999,69.031,68.826,Brazil,0,1
+1071,Ferrari,844,7,1,1,69.155,68.859,68.96000000000001,Brazil,0,1
+1071,McLaren,846,8,1,1,69.365,69.03,68.98,Brazil,0,1
+1071,McLaren,817,9,1,1,69.374,69.093,69.039,Brazil,0,1
+1071,Alpine,4,10,1,1,69.391,69.137,69.113,Brazil,0,1
+1071,Alpine,839,11,1,0,69.43,69.189,,Brazil,0,1
+1071,Aston Martin,20,12,1,0,69.451,69.399,,Brazil,0,1
+1071,AlphaTauri,852,13,1,0,69.35,69.483,,Brazil,0,1
+1071,Alfa Romeo,8,14,1,0,69.598,69.503,,Brazil,0,1
+1071,Alfa Romeo,841,15,1,0,69.342,70.227,,Brazil,0,1
+1071,Aston Martin,840,16,0,0,69.663,,,Brazil,0,1
+1071,Williams,849,17,0,0,69.897,,,Brazil,0,1
+1071,Williams,847,18,0,0,69.953,,,Brazil,0,1
+1071,Haas,854,19,0,0,70.32900000000001,,,Brazil,0,1
+1071,Haas,853,20,0,0,70.589,,,Brazil,0,1
+1051,Mercedes,1,1,1,1,81.901,81.682,80.827,Qatar,0,1
+1051,Red Bull Racing,830,2,1,1,81.996,81.98400000000001,81.282,Qatar,0,1
+1051,Mercedes,822,3,1,1,82.01599999999999,81.991,81.47800000000001,Qatar,0,1
+1051,AlphaTauri,842,4,1,1,82.535,81.72800000000001,81.64,Qatar,0,1
+1051,Alpine,4,5,1,1,82.422,81.894,81.67,Qatar,0,1
+1051,McLaren,846,6,1,1,82.839,82.21600000000001,81.731,Qatar,0,1
+1051,Ferrari,832,7,1,1,82.304,82.241,81.84,Qatar,0,1
+1051,AlphaTauri,852,8,1,1,82.458,82.05799999999999,81.881,Qatar,0,1
+1051,Alpine,839,9,1,1,82.565,82.012,82.02799999999999,Qatar,0,1
+1051,Aston Martin,20,10,1,1,82.549,82.146,82.785,Qatar,0,1
+1051,Red Bull Racing,815,11,1,0,82.398,82.346,,Qatar,0,1
+1051,Aston Martin,840,12,1,0,82.551,82.46000000000001,,Qatar,0,1
+1051,Ferrari,844,13,1,0,82.742,82.463,,Qatar,0,1
+1051,McLaren,817,14,1,0,82.688,82.59700000000001,,Qatar,0,1
+1051,Williams,847,15,1,0,82.863,82.756,,Qatar,0,1
+1051,Alfa Romeo,8,16,0,0,83.156,,,Qatar,0,1
+1051,Williams,849,17,0,0,83.213,,,Qatar,0,1
+1051,Alfa Romeo,841,18,0,0,83.262,,,Qatar,0,1
+1051,Haas,854,19,0,0,83.407,,,Qatar,0,1
+1051,Haas,853,20,0,0,85.85900000000001,,,Qatar,0,1
+1072,Mercedes,1,1,1,1,88.46600000000001,87.712,87.511,Saudi Arabia,0,1
+1072,Mercedes,822,2,1,1,88.057,88.054,87.622,Saudi Arabia,0,1
+1072,Red Bull Racing,830,3,1,1,88.285,87.953,87.65299999999999,Saudi Arabia,0,1
+1072,Ferrari,844,4,1,1,88.31,88.459,88.054,Saudi Arabia,0,1
+1072,Red Bull Racing,815,5,1,1,88.021,87.946,88.123,Saudi Arabia,0,1
+1072,AlphaTauri,842,6,1,1,88.401,88.314,88.125,Saudi Arabia,0,1
+1072,McLaren,846,7,1,1,88.338,88.344,88.18,Saudi Arabia,0,1
+1072,AlphaTauri,852,8,1,1,88.503,88.22200000000001,88.44200000000001,Saudi Arabia,0,1
+1072,Alpine,839,9,1,1,88.752,88.574,88.64699999999999,Saudi Arabia,0,1
+1072,Alfa Romeo,841,10,1,1,88.899,88.616,88.754,Saudi Arabia,0,1
+1072,McLaren,817,11,1,0,88.21600000000001,88.668,,Saudi Arabia,0,1
+1072,Alfa Romeo,8,12,1,0,88.856,88.885,,Saudi Arabia,0,1
+1072,Alpine,4,13,1,0,88.944,88.92,,Saudi Arabia,0,1
+1072,Williams,847,14,1,0,88.926,89.054,,Saudi Arabia,0,1
+1072,Ferrari,832,15,1,0,88.237,113.652,,Saudi Arabia,0,1
+1072,Williams,849,16,0,0,89.17699999999999,,,Saudi Arabia,0,1
+1072,Aston Martin,20,17,0,0,89.19800000000001,,,Saudi Arabia,0,1
+1072,Aston Martin,840,18,0,0,89.368,,,Saudi Arabia,0,1
+1072,Haas,854,19,0,0,89.464,,,Saudi Arabia,0,1
+1072,Haas,853,20,0,0,90.473,,,Saudi Arabia,0,1
+1073,Red Bull Racing,830,1,1,1,83.322,82.8,82.10900000000001,Abu Dhabi,0,1
+1073,Mercedes,1,2,1,1,82.845,83.145,82.48,Abu Dhabi,0,1
+1073,McLaren,846,3,1,1,83.553,83.256,82.931,Abu Dhabi,0,1
+1073,Red Bull Racing,815,4,1,1,83.35,83.135,82.947,Abu Dhabi,0,1
+1073,Ferrari,832,5,1,1,83.624,83.174,82.992,Abu Dhabi,0,1
+1073,Mercedes,822,6,1,1,83.117,83.246,83.036,Abu Dhabi,0,1
+1073,Ferrari,844,7,1,1,83.467,83.202,83.122,Abu Dhabi,0,1
+1073,AlphaTauri,852,8,1,1,83.428,83.404,83.22,Abu Dhabi,0,1
+1073,Alpine,839,9,1,1,83.764,83.42,83.389,Abu Dhabi,0,1
+1073,McLaren,817,10,1,1,83.82900000000001,83.44800000000001,83.40899999999999,Abu Dhabi,0,1
+1073,Alpine,4,11,1,0,83.846,83.46000000000001,,Abu Dhabi,0,1
+1073,AlphaTauri,842,12,1,0,83.489,84.043,,Abu Dhabi,0,1
+1073,Aston Martin,840,13,1,0,84.061,84.066,,Abu Dhabi,0,1
+1073,Alfa Romeo,841,14,1,0,84.118,84.251,,Abu Dhabi,0,1
+1073,Aston Martin,20,15,1,0,84.225,84.305,,Abu Dhabi,0,1
+1073,Williams,849,16,0,0,84.338,,,Abu Dhabi,0,1
+1073,Williams,847,17,0,0,84.423,,,Abu Dhabi,0,1
+1073,Alfa Romeo,8,18,0,0,84.779,,,Abu Dhabi,0,1
+1073,Haas,854,19,0,0,84.906,,,Abu Dhabi,0,1
+1073,Haas,853,20,0,0,85.685,,,Abu Dhabi,0,1
