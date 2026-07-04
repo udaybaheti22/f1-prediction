@@ -1,0 +1,480 @@
+Track,kaggle_driver_id,Position,participated_q2,participated_q3,q1_time_sec,q2_time_sec,q3_time_sec,year,Team
+Australia,846,1,1,1,75.912,75.41499999999999,75.096,2025,McLaren
+Australia,857,2,1,1,76.062,75.468,75.18,2025,McLaren
+Australia,830,3,1,1,76.018,75.565,75.481,2025,Red Bull Racing
+Australia,847,4,1,1,75.971,75.798,75.54599999999999,2025,Mercedes
+Australia,852,5,1,1,76.225,76.009,75.67,2025,Red Bull Racing
+Australia,848,6,1,1,76.245,76.017,75.737,2025,Williams
+Australia,844,7,1,1,76.029,75.827,75.755,2025,Ferrari
+Australia,1,8,1,1,76.213,75.919,75.973,2025,Ferrari
+Australia,842,9,1,1,76.328,76.112,75.98,2025,Alpine
+Australia,832,10,1,1,76.36,75.931,76.062,2025,Williams
+Australia,864,11,1,0,76.354,76.175,,2025,Racing Bulls
+Australia,4,12,1,0,76.288,76.453,,2025,Aston Martin
+Australia,840,13,1,0,76.369,76.483,,2025,Aston Martin
+Australia,862,14,1,0,76.315,76.863,,2025,Alpine
+Australia,865,15,1,0,76.51599999999999,77.52,,2025,Kick Sauber
+Australia,863,16,0,0,76.525,,,2025,Mercedes
+Australia,807,17,0,0,76.57900000000001,,,2025,Kick Sauber
+Australia,859,18,0,0,77.094,,,2025,Racing Bulls
+Australia,839,19,0,0,77.14699999999999,,,2025,Haas
+Australia,860,NC,0,0,,,,2025,Haas
+China,857,1,1,1,91.591,91.2,90.641,2025,McLaren
+China,847,2,1,1,91.295,91.307,90.723,2025,Mercedes
+China,846,3,1,1,90.983,90.787,90.793,2025,McLaren
+China,830,4,1,1,91.424,91.142,90.817,2025,Red Bull Racing
+China,1,5,1,1,91.69,91.501,90.927,2025,Ferrari
+China,844,6,1,1,91.579,91.45,91.021,2025,Ferrari
+China,864,7,1,1,91.162,91.253,91.079,2025,Racing Bulls
+China,863,8,1,1,91.676,91.59,91.103,2025,Mercedes
+China,852,9,1,1,91.238,91.26,91.638,2025,Red Bull Racing
+China,848,10,1,1,91.503,91.595,91.706,2025,Williams
+China,839,11,1,0,91.876,91.625,,2025,Haas
+China,807,12,1,0,91.921,91.632,,2025,Kick Sauber
+China,4,13,1,0,91.719,91.688,,2025,Aston Martin
+China,840,14,1,0,91.923,91.773,,2025,Aston Martin
+China,832,15,1,0,91.628,91.84,,2025,Williams
+China,842,16,0,0,91.992,,,2025,Alpine
+China,860,17,0,0,92.018,,,2025,Haas
+China,862,18,0,0,92.092,,,2025,Alpine
+China,865,19,0,0,92.141,,,2025,Kick Sauber
+China,859,20,0,0,92.174,,,2025,Racing Bulls
+Japan,830,1,1,1,87.943,87.502,86.983,2025,Red Bull Racing
+Japan,846,2,1,1,87.845,87.146,86.995,2025,McLaren
+Japan,857,3,1,1,87.687,87.507,87.207,2025,McLaren
+Japan,844,4,1,1,87.92,87.555,87.299,2025,Ferrari
+Japan,847,5,1,1,87.843,87.4,87.318,2025,Mercedes
+Japan,863,6,1,1,87.968,87.639,87.555,2025,Mercedes
+Japan,864,7,1,1,88.27799999999999,87.775,87.569,2025,Racing Bulls
+Japan,1,8,1,1,87.94200000000001,87.61,87.61,2025,Ferrari
+Japan,848,9,1,1,88.218,87.783,87.615,2025,Williams
+Japan,860,10,1,1,88.22800000000001,87.711,87.867,2025,Haas
+Japan,842,11,1,0,88.186,87.822,,2025,Alpine
+Japan,832,12,1,0,88.209,87.836,,2025,Williams
+Japan,4,13,1,0,88.337,87.89699999999999,,2025,Aston Martin
+Japan,859,14,1,0,88.554,87.906,,2025,Racing Bulls
+Japan,852,15,1,0,87.967,88.0,,2025,Red Bull Racing
+Japan,807,16,0,0,88.57,,,2025,Kick Sauber
+Japan,865,17,0,0,88.622,,,2025,Kick Sauber
+Japan,839,18,0,0,88.696,,,2025,Haas
+Japan,862,19,0,0,88.877,,,2025,Alpine
+Japan,840,20,0,0,89.271,,,2025,Aston Martin
+Bahrain,857,1,1,1,91.392,90.454,89.84100000000001,2025,McLaren
+Bahrain,847,2,1,1,91.494,90.664,90.009,2025,Mercedes
+Bahrain,844,3,1,1,91.454,90.724,90.175,2025,Ferrari
+Bahrain,863,4,1,1,91.415,90.716,90.213,2025,Mercedes
+Bahrain,842,5,1,1,91.462,90.643,90.216,2025,Alpine
+Bahrain,846,6,1,1,91.107,90.56,90.267,2025,McLaren
+Bahrain,830,7,1,1,91.303,91.019,90.423,2025,Red Bull Racing
+Bahrain,832,8,1,1,91.591,90.844,90.68,2025,Williams
+Bahrain,1,9,1,1,91.219,91.009,90.772,2025,Ferrari
+Bahrain,852,10,1,1,91.751,91.228,91.303,2025,Red Bull Racing
+Bahrain,862,11,1,0,91.414,91.245,,2025,Alpine
+Bahrain,864,12,1,0,91.591,91.271,,2025,Racing Bulls
+Bahrain,4,13,1,0,91.634,91.886,,2025,Aston Martin
+Bahrain,839,14,1,0,91.594,,,2025,Haas
+Bahrain,848,15,0,0,92.04,,,2025,Williams
+Bahrain,807,16,0,0,92.067,,,2025,Kick Sauber
+Bahrain,859,17,0,0,92.165,,,2025,Racing Bulls
+Bahrain,865,18,0,0,92.186,,,2025,Kick Sauber
+Bahrain,840,19,0,0,92.283,,,2025,Aston Martin
+Bahrain,860,20,0,0,92.373,,,2025,Haas
+Saudi Arabia,830,1,1,1,87.77799999999999,87.529,87.294,2025,Red Bull Racing
+Saudi Arabia,857,2,1,1,87.901,87.545,87.304,2025,McLaren
+Saudi Arabia,847,3,1,1,88.282,87.599,87.407,2025,Mercedes
+Saudi Arabia,844,4,1,1,88.55199999999999,87.866,87.67,2025,Ferrari
+Saudi Arabia,863,5,1,1,88.128,87.798,87.866,2025,Mercedes
+Saudi Arabia,832,6,1,1,88.354,88.054,88.164,2025,Williams
+Saudi Arabia,1,7,1,1,88.372,88.102,88.201,2025,Ferrari
+Saudi Arabia,852,8,1,1,88.226,87.99,88.20400000000001,2025,Red Bull Racing
+Saudi Arabia,842,9,1,1,88.241,88.025,88.367,2025,Alpine
+Saudi Arabia,846,10,1,1,87.805,87.481,,2025,McLaren
+Saudi Arabia,848,11,1,0,88.279,88.10900000000001,,2025,Williams
+Saudi Arabia,859,12,1,0,88.561,88.191,,2025,Racing Bulls
+Saudi Arabia,4,13,1,0,88.548,88.303,,2025,Aston Martin
+Saudi Arabia,864,14,1,0,88.571,88.418,,2025,Racing Bulls
+Saudi Arabia,860,15,1,0,88.536,88.648,,2025,Haas
+Saudi Arabia,840,16,0,0,88.645,,,2025,Aston Martin
+Saudi Arabia,862,17,0,0,88.739,,,2025,Alpine
+Saudi Arabia,807,18,0,0,88.782,,,2025,Kick Sauber
+Saudi Arabia,839,19,0,0,89.092,,,2025,Haas
+Saudi Arabia,865,20,0,0,89.462,,,2025,Kick Sauber
+Miami,830,1,1,1,86.87,86.643,86.20400000000001,2025,Red Bull Racing
+Miami,846,2,1,1,86.955,86.499,86.269,2025,McLaren
+Miami,863,3,1,1,87.077,86.606,86.271,2025,Mercedes
+Miami,857,4,1,1,87.006,86.269,86.375,2025,McLaren
+Miami,847,5,1,1,87.014,86.575,86.385,2025,Mercedes
+Miami,832,6,1,1,87.098,86.84700000000001,86.569,2025,Williams
+Miami,848,7,1,1,87.042,86.855,86.682,2025,Williams
+Miami,844,8,1,1,87.417,86.94800000000001,86.754,2025,Ferrari
+Miami,839,9,1,1,87.45,86.967,86.824,2025,Haas
+Miami,852,10,1,1,87.298,86.959,86.943,2025,Red Bull Racing
+Miami,864,11,1,0,87.301,86.987,,2025,Racing Bulls
+Miami,1,12,1,0,87.279,87.006,,2025,Ferrari
+Miami,865,13,1,0,87.343,87.151,,2025,Kick Sauber
+Miami,862,14,1,0,87.422,87.186,,2025,Alpine
+Miami,859,15,1,0,87.444,87.363,,2025,Racing Bulls
+Miami,807,16,0,0,87.473,,,2025,Kick Sauber
+Miami,4,17,0,0,87.604,,,2025,Aston Martin
+Miami,842,18,0,0,87.71000000000001,,,2025,Alpine
+Miami,840,19,0,0,87.83,,,2025,Aston Martin
+Miami,860,20,0,0,87.999,,,2025,Haas
+Emilia-Romagna,857,1,1,1,75.5,75.214,74.67,2025,McLaren
+Emilia-Romagna,830,2,1,1,75.175,75.394,74.70400000000001,2025,Red Bull Racing
+Emilia-Romagna,847,3,1,1,75.852,75.334,74.807,2025,Mercedes
+Emilia-Romagna,846,4,1,1,75.894,75.261,74.962,2025,McLaren
+Emilia-Romagna,4,5,1,1,75.695,75.44200000000001,75.431,2025,Aston Martin
+Emilia-Romagna,832,6,1,1,75.987,75.19800000000001,75.432,2025,Williams
+Emilia-Romagna,848,7,1,1,76.123,75.521,75.473,2025,Williams
+Emilia-Romagna,840,8,1,1,75.81700000000001,75.497,75.581,2025,Aston Martin
+Emilia-Romagna,864,9,1,1,76.253,75.51,75.746,2025,Racing Bulls
+Emilia-Romagna,842,10,1,1,75.937,75.505,75.787,2025,Alpine
+Emilia-Romagna,844,11,1,0,76.108,75.604,,2025,Ferrari
+Emilia-Romagna,1,12,1,0,76.163,75.765,,2025,Ferrari
+Emilia-Romagna,863,13,1,0,75.943,75.772,,2025,Mercedes
+Emilia-Romagna,865,14,1,0,76.34,76.26,,2025,Kick Sauber
+Emilia-Romagna,861,15,0,0,76.256,,,2025,Alpine
+Emilia-Romagna,859,16,0,0,76.379,,,2025,Racing Bulls
+Emilia-Romagna,807,17,0,0,76.518,,,2025,Kick Sauber
+Emilia-Romagna,839,18,0,0,76.613,,,2025,Haas
+Emilia-Romagna,860,19,0,0,76.918,,,2025,Haas
+Emilia-Romagna,852,NC,0,0,,,,2025,Red Bull Racing
+Monaco,846,1,1,1,71.285,70.57,69.95400000000001,2025,McLaren
+Monaco,844,2,1,1,71.229,70.581,70.063,2025,Ferrari
+Monaco,857,3,1,1,71.30799999999999,70.858,70.129,2025,McLaren
+Monaco,1,4,1,1,71.575,70.883,70.382,2025,Ferrari
+Monaco,830,5,1,1,71.431,70.875,70.669,2025,Red Bull Racing
+Monaco,864,6,1,1,71.811,71.03999999999999,70.923,2025,Racing Bulls
+Monaco,4,7,1,1,71.674,71.182,70.924,2025,Aston Martin
+Monaco,839,8,1,1,71.839,71.262,70.94200000000001,2025,Haas
+Monaco,859,9,1,1,71.818,71.25,71.129,2025,Racing Bulls
+Monaco,848,10,1,1,71.629,70.732,71.213,2025,Williams
+Monaco,832,11,1,0,71.707,71.362,,2025,Williams
+Monaco,852,12,1,0,71.8,71.41499999999999,,2025,Red Bull Racing
+Monaco,807,13,1,0,71.871,71.596,,2025,Kick Sauber
+Monaco,847,14,1,0,71.507,,,2025,Mercedes
+Monaco,863,15,0,0,71.88,,,2025,Mercedes
+Monaco,865,16,0,0,71.902,,,2025,Kick Sauber
+Monaco,860,17,0,0,71.979,,,2025,Haas
+Monaco,842,18,0,0,71.994,,,2025,Alpine
+Monaco,840,19,0,0,72.563,,,2025,Aston Martin
+Monaco,861,20,0,0,72.597,,,2025,Alpine
+Spain,857,1,1,1,72.591,71.998,71.54599999999999,2025,McLaren
+Spain,846,2,1,1,72.799,72.056,71.755,2025,McLaren
+Spain,830,3,1,1,72.798,72.358,71.848,2025,Red Bull Racing
+Spain,847,4,1,1,72.806,72.407,71.848,2025,Mercedes
+Spain,1,5,1,1,73.05799999999999,72.447,72.045,2025,Ferrari
+Spain,863,6,1,1,72.815,72.58500000000001,72.111,2025,Mercedes
+Spain,844,7,1,1,73.014,72.495,72.131,2025,Ferrari
+Spain,842,8,1,1,73.081,72.611,72.199,2025,Alpine
+Spain,864,9,1,1,73.139,72.461,72.252,2025,Racing Bulls
+Spain,4,10,1,1,73.102,72.523,72.284,2025,Aston Martin
+Spain,848,11,1,0,73.044,72.641,,2025,Williams
+Spain,865,12,1,0,73.045,72.756,,2025,Kick Sauber
+Spain,859,13,1,0,73.039,72.763,,2025,Racing Bulls
+Spain,840,14,1,0,73.038,73.05799999999999,,2025,Aston Martin
+Spain,860,15,1,0,73.074,73.315,,2025,Haas
+Spain,807,16,0,0,73.19,,,2025,Kick Sauber
+Spain,839,17,0,0,73.201,,,2025,Haas
+Spain,832,18,0,0,73.203,,,2025,Williams
+Spain,861,19,0,0,73.334,,,2025,Alpine
+Spain,852,20,0,0,73.385,,,2025,Red Bull Racing
+Canada,847,1,1,1,72.075,71.57,70.899,2025,Mercedes
+Canada,830,2,1,1,72.054,71.638,71.059,2025,Red Bull Racing
+Canada,857,3,1,1,71.939,71.715,71.12,2025,McLaren
+Canada,863,4,1,1,72.279,71.974,71.391,2025,Mercedes
+Canada,1,5,1,1,71.952,71.885,71.526,2025,Ferrari
+Canada,4,6,1,1,72.07300000000001,71.805,71.586,2025,Aston Martin
+Canada,846,7,1,1,71.826,71.599,71.625,2025,McLaren
+Canada,844,8,1,1,72.038,71.626,71.682,2025,Ferrari
+Canada,864,9,1,1,72.211,72.003,71.867,2025,Racing Bulls
+Canada,848,10,1,1,72.09,71.892,71.907,2025,Williams
+Canada,852,11,1,0,72.334,72.102,,2025,Red Bull Racing
+Canada,861,12,1,0,72.234,72.142,,2025,Alpine
+Canada,807,13,1,0,72.32300000000001,72.18299999999999,,2025,Kick Sauber
+Canada,860,14,1,0,72.306,72.34,,2025,Haas
+Canada,839,15,1,0,72.378,72.634,,2025,Haas
+Canada,865,16,0,0,72.385,,,2025,Kick Sauber
+Canada,832,17,0,0,72.398,,,2025,Williams
+Canada,840,18,0,0,72.517,,,2025,Aston Martin
+Canada,859,19,0,0,72.525,,,2025,Racing Bulls
+Canada,842,20,0,0,72.667,,,2025,Alpine
+Austria,846,1,1,1,64.672,64.41,63.971,2025,McLaren
+Austria,844,2,1,1,65.197,64.734,64.492,2025,Ferrari
+Austria,857,3,1,1,64.966,64.556,64.554,2025,McLaren
+Austria,1,4,1,1,65.115,64.896,64.582,2025,Ferrari
+Austria,847,5,1,1,65.189,64.86,64.763,2025,Mercedes
+Austria,859,6,1,1,65.017,65.041,64.926,2025,Racing Bulls
+Austria,830,7,1,1,65.106,64.836,64.929,2025,Red Bull Racing
+Austria,865,8,1,1,65.123,64.846,65.132,2025,Kick Sauber
+Austria,863,9,1,1,65.178,65.05199999999999,65.276,2025,Mercedes
+Austria,842,10,1,1,65.054,64.846,65.649,2025,Alpine
+Austria,4,11,1,0,65.197,65.128,,2025,Aston Martin
+Austria,848,12,1,0,65.143,65.205,,2025,Williams
+Austria,864,13,1,0,65.063,65.226,,2025,Racing Bulls
+Austria,861,14,1,0,65.278,65.288,,2025,Alpine
+Austria,860,15,1,0,65.218,65.312,,2025,Haas
+Austria,840,16,0,0,65.329,,,2025,Aston Martin
+Austria,839,17,0,0,65.364,,,2025,Haas
+Austria,852,18,0,0,65.369,,,2025,Red Bull Racing
+Austria,832,19,0,0,65.582,,,2025,Williams
+Austria,807,20,0,0,65.606,,,2025,Kick Sauber
+Great Britain,830,1,1,1,85.886,85.316,84.892,2025,Red Bull Racing
+Great Britain,857,2,1,1,85.963,85.316,84.995,2025,McLaren
+Great Britain,846,3,1,1,86.123,85.231,85.01,2025,McLaren
+Great Britain,847,4,1,1,86.236,85.637,85.029,2025,Mercedes
+Great Britain,1,5,1,1,86.29599999999999,85.084,85.095,2025,Ferrari
+Great Britain,844,6,1,1,86.186,85.133,85.121,2025,Ferrari
+Great Britain,863,7,1,1,86.265,85.62,85.374,2025,Mercedes
+Great Britain,860,8,1,1,86.005,85.53399999999999,85.471,2025,Haas
+Great Britain,4,9,1,1,86.108,85.593,85.621,2025,Aston Martin
+Great Britain,842,10,1,1,86.328,85.711,85.785,2025,Alpine
+Great Britain,832,11,1,0,86.175,85.746,,2025,Williams
+Great Britain,852,12,1,0,86.275,85.826,,2025,Red Bull Racing
+Great Britain,864,13,1,0,86.17699999999999,85.864,,2025,Racing Bulls
+Great Britain,848,14,1,0,86.093,85.889,,2025,Williams
+Great Britain,839,15,1,0,86.136,85.95,,2025,Haas
+Great Britain,859,16,0,0,86.44,,,2025,Racing Bulls
+Great Britain,865,17,0,0,86.446,,,2025,Kick Sauber
+Great Britain,840,18,0,0,86.504,,,2025,Aston Martin
+Great Britain,807,19,0,0,86.574,,,2025,Kick Sauber
+Great Britain,861,20,0,0,87.06,,,2025,Alpine
+Belgium,846,1,1,1,101.01,100.715,100.562,2025,McLaren
+Belgium,857,2,1,1,101.201,100.626,100.647,2025,McLaren
+Belgium,844,3,1,1,101.635,101.084,100.9,2025,Ferrari
+Belgium,830,4,1,1,101.334,100.951,100.903,2025,Red Bull Racing
+Belgium,848,5,1,1,101.772,101.505,101.201,2025,Williams
+Belgium,847,6,1,1,101.784,101.254,101.26,2025,Mercedes
+Belgium,852,7,1,1,101.84,101.245,101.284,2025,Red Bull Racing
+Belgium,864,8,1,1,101.572,101.281,101.31,2025,Racing Bulls
+Belgium,859,9,1,1,101.748,101.297,101.328,2025,Racing Bulls
+Belgium,865,10,1,1,101.908,101.336,102.387,2025,Kick Sauber
+Belgium,839,11,1,0,101.884,101.525,,2025,Haas
+Belgium,860,12,1,0,101.617,101.617,,2025,Haas
+Belgium,842,13,1,0,101.8,101.633,,2025,Alpine
+Belgium,807,14,1,0,101.844,101.707,,2025,Kick Sauber
+Belgium,832,15,1,0,101.691,101.758,,2025,Williams
+Belgium,1,16,0,0,101.939,,,2025,Ferrari
+Belgium,861,17,0,0,102.022,,,2025,Alpine
+Belgium,863,18,0,0,102.139,,,2025,Mercedes
+Belgium,4,19,0,0,102.385,,,2025,Aston Martin
+Belgium,840,20,0,0,102.502,,,2025,Aston Martin
+Hungary,844,1,1,1,75.582,75.455,75.372,2025,Ferrari
+Hungary,857,2,1,1,75.211,74.941,75.398,2025,McLaren
+Hungary,846,3,1,1,75.523,74.89,75.413,2025,McLaren
+Hungary,847,4,1,1,75.627,75.201,75.425,2025,Mercedes
+Hungary,4,5,1,1,75.281,75.395,75.481,2025,Aston Martin
+Hungary,840,6,1,1,75.673,75.129,75.498,2025,Aston Martin
+Hungary,865,7,1,1,75.586,75.687,75.725,2025,Kick Sauber
+Hungary,830,8,1,1,75.736,75.547,75.728,2025,Red Bull Racing
+Hungary,859,9,1,1,75.849,75.63,75.821,2025,Racing Bulls
+Hungary,864,10,1,1,75.516,75.469,75.91499999999999,2025,Racing Bulls
+Hungary,860,11,1,0,75.75,75.694,,2025,Haas
+Hungary,1,12,1,0,75.733,75.702,,2025,Ferrari
+Hungary,832,13,1,0,75.652,75.781,,2025,Williams
+Hungary,861,14,1,0,75.875,76.15899999999999,,2025,Alpine
+Hungary,863,15,1,0,75.782,76.386,,2025,Mercedes
+Hungary,852,16,0,0,75.899,,,2025,Red Bull Racing
+Hungary,842,17,0,0,75.966,,,2025,Alpine
+Hungary,839,18,0,0,76.023,,,2025,Haas
+Hungary,807,19,0,0,76.081,,,2025,Kick Sauber
+Hungary,848,20,0,0,76.223,,,2025,Williams
+Netherlands,857,1,1,1,69.338,68.964,68.662,2025,McLaren
+Netherlands,846,2,1,1,69.469,68.874,68.674,2025,McLaren
+Netherlands,830,3,1,1,69.696,69.122,68.925,2025,Red Bull Racing
+Netherlands,864,4,1,1,69.966,69.439,69.208,2025,Racing Bulls
+Netherlands,847,5,1,1,69.676,69.313,69.255,2025,Mercedes
+Netherlands,844,6,1,1,69.906,69.304,69.34,2025,Ferrari
+Netherlands,1,7,1,1,69.9,69.261,69.39,2025,Ferrari
+Netherlands,859,8,1,1,69.779,69.383,69.5,2025,Racing Bulls
+Netherlands,832,9,1,1,69.98,69.472,69.505,2025,Williams
+Netherlands,4,10,1,1,69.95,69.366,69.63,2025,Aston Martin
+Netherlands,863,11,1,0,69.845,69.493,,2025,Mercedes
+Netherlands,852,12,1,0,69.95400000000001,69.622,,2025,Red Bull Racing
+Netherlands,865,13,1,0,70.037,69.622,,2025,Kick Sauber
+Netherlands,842,14,1,0,69.894,69.637,,2025,Alpine
+Netherlands,848,15,1,0,69.792,69.652,,2025,Williams
+Netherlands,861,16,0,0,70.104,,,2025,Alpine
+Netherlands,807,17,0,0,70.195,,,2025,Kick Sauber
+Netherlands,839,18,0,0,70.197,,,2025,Haas
+Netherlands,860,19,0,0,70.262,,,2025,Haas
+Netherlands,840,NC,0,0,,,,2025,Aston Martin
+Italy,830,1,1,1,79.455,79.14,78.792,2025,Red Bull Racing
+Italy,846,2,1,1,79.517,79.293,78.869,2025,McLaren
+Italy,857,3,1,1,79.711,79.286,78.982,2025,McLaren
+Italy,844,4,1,1,79.689,79.31,79.007,2025,Ferrari
+Italy,1,5,1,1,79.765,79.371,79.124,2025,Ferrari
+Italy,847,6,1,1,79.414,79.287,79.157,2025,Mercedes
+Italy,863,7,1,1,79.747,79.245,79.2,2025,Mercedes
+Italy,865,8,1,1,79.688,79.32300000000001,79.39,2025,Kick Sauber
+Italy,4,9,1,1,79.658,79.362,79.424,2025,Aston Martin
+Italy,852,10,1,1,79.619,79.43299999999999,79.519,2025,Red Bull Racing
+Italy,860,11,1,0,79.688,79.446,,2025,Haas
+Italy,807,12,1,0,79.777,79.498,,2025,Kick Sauber
+Italy,832,13,1,0,79.644,79.52799999999999,,2025,Williams
+Italy,848,14,1,0,79.837,79.583,,2025,Williams
+Italy,839,15,1,0,79.816,79.707,,2025,Haas
+Italy,864,16,0,0,79.917,,,2025,Racing Bulls
+Italy,840,17,0,0,79.94800000000001,,,2025,Aston Martin
+Italy,861,18,0,0,79.992,,,2025,Alpine
+Italy,842,19,0,0,80.10300000000001,,,2025,Alpine
+Italy,859,20,0,0,80.279,,,2025,Racing Bulls
+Azerbaijan,830,1,1,1,101.331,101.255,101.117,2025,Red Bull Racing
+Azerbaijan,832,2,1,1,102.635,101.675,101.595,2025,Williams
+Azerbaijan,859,3,1,1,102.257,101.537,101.707,2025,Racing Bulls
+Azerbaijan,863,4,1,1,102.247,101.464,101.717,2025,Mercedes
+Azerbaijan,847,5,1,1,101.646,101.455,102.07,2025,Mercedes
+Azerbaijan,852,6,1,1,102.347,101.788,102.143,2025,Red Bull Racing
+Azerbaijan,846,7,1,1,101.322,101.396,102.239,2025,McLaren
+Azerbaijan,864,8,1,1,101.656,101.647,102.372,2025,Racing Bulls
+Azerbaijan,857,9,1,1,101.839,101.414,,2025,McLaren
+Azerbaijan,844,10,1,1,101.458,101.519,,2025,Ferrari
+Azerbaijan,4,11,1,0,6331.0,101.857,,2025,Aston Martin
+Azerbaijan,1,12,1,0,101.821,102.183,,2025,Ferrari
+Azerbaijan,865,13,1,0,,102.277,,2025,Kick Sauber
+Azerbaijan,840,14,1,0,102.101,103.061,,2025,Aston Martin
+Azerbaijan,860,15,1,0,102.666,,,2025,Haas
+Azerbaijan,861,16,0,0,102.779,,,2025,Alpine
+Azerbaijan,807,17,0,0,102.916,,,2025,Kick Sauber
+Azerbaijan,842,18,0,0,103.139,,,2025,Alpine
+Azerbaijan,848,19,0,0,103.778,,,2025,Williams
+Azerbaijan,839,DQ,0,0,,,,2025,Haas
+Singapore,847,1,1,1,89.928,89.562,89.158,2025,Mercedes
+Singapore,830,2,1,1,90.02799999999999,89.572,89.34,2025,Red Bull Racing
+Singapore,857,3,1,1,90.313,89.813,89.524,2025,McLaren
+Singapore,863,4,1,1,90.036,89.649,89.537,2025,Mercedes
+Singapore,846,5,1,1,89.932,89.809,89.586,2025,McLaren
+Singapore,1,6,1,1,89.765,89.936,89.688,2025,Ferrari
+Singapore,844,7,1,1,90.37,89.914,89.78399999999999,2025,Ferrari
+Singapore,864,8,1,1,90.214,90.01599999999999,89.846,2025,Racing Bulls
+Singapore,860,9,1,1,90.42,90.076,89.868,2025,Haas
+Singapore,4,10,1,1,90.745,90.054,89.955,2025,Aston Martin
+Singapore,807,11,1,0,90.715,90.141,,2025,Kick Sauber
+Singapore,859,12,1,0,90.681,90.32,,2025,Racing Bulls
+Singapore,852,13,1,0,90.574,90.353,,2025,Red Bull Racing
+Singapore,865,14,0,0,90.82,,,2025,Kick Sauber
+Singapore,840,15,0,0,90.949,,,2025,Aston Martin
+Singapore,861,16,0,0,90.982,,,2025,Alpine
+Singapore,839,17,0,0,90.989,,,2025,Haas
+Singapore,842,18,0,0,91.261,,,2025,Alpine
+Singapore,848,DQ,1,0,,90.202,,2025,Williams
+Singapore,832,DQ,1,0,,90.225,,2025,Williams
+United States,830,1,1,1,93.207,92.701,92.51,2025,Red Bull Racing
+United States,846,2,1,1,93.843,92.876,92.801,2025,McLaren
+United States,844,3,1,1,93.525,92.869,92.807,2025,Ferrari
+United States,847,4,1,1,93.311,93.058,92.826,2025,Mercedes
+United States,1,5,1,1,93.685,92.914,92.912,2025,Ferrari
+United States,857,6,1,1,93.746,93.288,93.084,2025,McLaren
+United States,863,7,1,1,93.501,93.044,93.114,2025,Mercedes
+United States,860,8,1,1,93.921,93.328,93.139,2025,Haas
+United States,832,9,1,1,93.739,93.124,93.15,2025,Williams
+United States,4,10,1,1,93.741,93.237,93.16,2025,Aston Martin
+United States,807,11,1,0,93.551,93.334,,2025,Kick Sauber
+United States,859,12,1,0,93.549,93.36,,2025,Racing Bulls
+United States,852,13,1,0,93.935,93.466,,2025,Red Bull Racing
+United States,842,14,1,0,93.599,93.651,,2025,Alpine
+United States,861,15,1,0,94.039,94.044,,2025,Alpine
+United States,865,16,0,0,94.125,,,2025,Kick Sauber
+United States,839,17,0,0,94.136,,,2025,Haas
+United States,840,18,0,0,94.54,,,2025,Aston Martin
+United States,848,19,0,0,94.69,,,2025,Williams
+United States,864,NC,0,0,,,,2025,Racing Bulls
+Mexico,846,1,1,1,76.899,76.252,75.586,2025,McLaren
+Mexico,844,2,1,1,77.024,76.658,75.848,2025,Ferrari
+Mexico,1,3,1,1,76.736,76.458,75.938,2025,Ferrari
+Mexico,847,4,1,1,76.895,76.537,76.03399999999999,2025,Mercedes
+Mexico,830,5,1,1,77.076,76.605,76.07,2025,Red Bull Racing
+Mexico,863,6,1,1,77.291,76.773,76.118,2025,Mercedes
+Mexico,832,7,1,1,77.17099999999999,76.607,76.172,2025,Williams
+Mexico,857,8,1,1,77.158,76.737,76.174,2025,McLaren
+Mexico,864,9,1,1,76.733,76.804,76.252,2025,Racing Bulls
+Mexico,860,10,1,1,77.03999999999999,76.787,76.46000000000001,2025,Haas
+Mexico,852,11,1,0,4854.0,76.816,,2025,Red Bull Racing
+Mexico,839,12,1,0,76.94800000000001,76.837,,2025,Haas
+Mexico,807,13,1,0,77.251,77.01599999999999,,2025,Kick Sauber
+Mexico,4,14,1,0,77.232,77.10300000000001,,2025,Aston Martin
+Mexico,859,15,1,0,76.961,78.072,,2025,Racing Bulls
+Mexico,865,16,0,0,77.412,,,2025,Kick Sauber
+Mexico,848,17,0,0,77.49,,,2025,Williams
+Mexico,842,18,0,0,77.54599999999999,,,2025,Alpine
+Mexico,840,19,0,0,77.606,,,2025,Aston Martin
+Mexico,861,20,0,0,77.67,,,2025,Alpine
+Brazil,846,1,1,1,4796.0,69.616,69.511,2025,McLaren
+Brazil,863,2,1,1,70.19200000000001,69.774,69.685,2025,Mercedes
+Brazil,844,3,1,1,69.934,69.801,69.805,2025,Ferrari
+Brazil,857,4,1,1,69.928,69.83500000000001,69.886,2025,McLaren
+Brazil,864,5,1,1,70.083,69.97,69.931,2025,Racing Bulls
+Brazil,847,6,1,1,69.935,69.88,69.94200000000001,2025,Mercedes
+Brazil,859,7,1,1,70.108,69.95,69.962,2025,Racing Bulls
+Brazil,860,8,1,1,69.891,69.755,69.977,2025,Haas
+Brazil,842,9,1,1,69.885,69.857,70.002,2025,Alpine
+Brazil,807,10,1,1,70.337,69.985,70.039,2025,Kick Sauber
+Brazil,4,11,1,0,70.181,70.001,,2025,Aston Martin
+Brazil,848,12,1,0,70.115,70.053,,2025,Williams
+Brazil,1,13,1,0,70.016,70.1,,2025,Ferrari
+Brazil,840,14,1,0,70.041,70.161,,2025,Aston Martin
+Brazil,832,15,1,0,70.184,70.472,,2025,Williams
+Brazil,830,16,0,0,70.403,,,2025,Red Bull Racing
+Brazil,839,17,0,0,70.438,,,2025,Haas
+Brazil,861,18,0,0,70.632,,,2025,Alpine
+Brazil,852,19,0,0,70.711,,,2025,Red Bull Racing
+Las Vegas,846,1,1,1,115.473,111.379,107.934,2025,McLaren
+Las Vegas,830,2,1,1,113.458,111.593,108.257,2025,Red Bull Racing
+Las Vegas,832,3,1,1,114.873,111.144,108.296,2025,Williams
+Las Vegas,847,4,1,1,113.144,110.935,108.803,2025,Mercedes
+Las Vegas,857,5,1,1,114.544,112.126,108.961,2025,McLaren
+Las Vegas,859,6,1,1,114.828,111.621,109.062,2025,Racing Bulls
+Las Vegas,4,7,1,1,113.739,111.865,109.466,2025,Aston Martin
+Las Vegas,864,8,1,1,115.613,111.12,109.554,2025,Racing Bulls
+Las Vegas,844,9,1,1,114.814,111.952,109.872,2025,Ferrari
+Las Vegas,842,10,1,1,114.432,111.76,111.54,2025,Alpine
+Las Vegas,807,11,1,0,114.555,112.781,,2025,Kick Sauber
+Las Vegas,840,12,1,0,114.416,112.85,,2025,Aston Martin
+Las Vegas,839,13,1,0,114.635,112.987,,2025,Haas
+Las Vegas,860,14,1,0,116.016,113.094,,2025,Haas
+Las Vegas,861,15,1,0,114.847,113.683,,2025,Alpine
+Las Vegas,848,16,0,0,116.22,,,2025,Williams
+Las Vegas,863,17,0,0,116.314,,,2025,Mercedes
+Las Vegas,865,18,0,0,116.674,,,2025,Kick Sauber
+Las Vegas,852,19,0,0,116.798,,,2025,Red Bull Racing
+Las Vegas,1,20,0,0,117.115,,,2025,Ferrari
+Qatar,857,1,1,1,80.23400000000001,79.65,79.387,2025,McLaren
+Qatar,846,2,1,1,80.157,79.861,79.495,2025,McLaren
+Qatar,830,3,1,1,80.47200000000001,79.985,79.651,2025,Red Bull Racing
+Qatar,847,4,1,1,80.074,180.186,79.662,2025,Mercedes
+Qatar,863,5,1,1,80.576,180.084,79.846,2025,Mercedes
+Qatar,864,6,1,1,80.60300000000001,80.35,80.114,2025,Racing Bulls
+Qatar,832,7,1,1,80.52,80.251,80.287,2025,Williams
+Qatar,4,8,1,1,80.598,80.219,80.418,2025,Aston Martin
+Qatar,842,9,1,1,80.681,80.324,80.477,2025,Alpine
+Qatar,844,10,1,1,80.654,80.343,80.561,2025,Ferrari
+Qatar,807,11,1,0,80.63,80.35300000000001,,2025,Kick Sauber
+Qatar,859,12,1,0,80.539,80.43299999999999,,2025,Racing Bulls
+Qatar,860,13,1,0,80.548,80.438,,2025,Haas
+Qatar,865,14,1,0,80.65299999999999,80.53399999999999,,2025,Kick Sauber
+Qatar,848,15,1,0,80.629,80.629,,2025,Williams
+Qatar,852,16,0,0,80.761,,,2025,Red Bull Racing
+Qatar,839,17,0,0,80.864,,,2025,Haas
+Qatar,1,18,0,0,80.907,,,2025,Ferrari
+Qatar,840,19,0,0,81.05799999999999,,,2025,Aston Martin
+Qatar,861,20,0,0,81.137,,,2025,Alpine
+Abu Dhabi,830,1,1,1,82.877,82.752,82.207,2025,Red Bull Racing
+Abu Dhabi,846,2,1,1,83.178,82.804,82.408,2025,McLaren
+Abu Dhabi,857,3,1,1,82.605,83.021,82.437,2025,McLaren
+Abu Dhabi,847,4,1,1,83.247,82.73,82.645,2025,Mercedes
+Abu Dhabi,844,5,1,1,83.163,82.94800000000001,82.73,2025,Ferrari
+Abu Dhabi,4,6,1,1,83.071,82.861,82.902,2025,Aston Martin
+Abu Dhabi,865,7,1,1,83.374,82.874,82.904,2025,Kick Sauber
+Abu Dhabi,839,8,1,1,83.334,83.023,82.913,2025,Haas
+Abu Dhabi,864,9,1,1,83.373,82.997,83.072,2025,Racing Bulls
+Abu Dhabi,852,10,1,1,83.386,83.03399999999999,,2025,Red Bull Racing
+Abu Dhabi,860,11,1,0,83.254,83.041,,2025,Haas
+Abu Dhabi,832,12,1,0,83.187,83.042,,2025,Williams
+Abu Dhabi,859,13,1,0,83.265,83.077,,2025,Racing Bulls
+Abu Dhabi,863,14,1,0,82.894,83.08,,2025,Mercedes
+Abu Dhabi,840,15,1,0,83.316,83.09700000000001,,2025,Aston Martin
+Abu Dhabi,1,16,0,0,83.394,,,2025,Ferrari
+Abu Dhabi,848,17,0,0,83.416,,,2025,Williams
+Abu Dhabi,807,18,0,0,83.45,,,2025,Kick Sauber
+Abu Dhabi,842,19,0,0,83.468,,,2025,Alpine
+Abu Dhabi,861,20,0,0,83.89,,,2025,Alpine
