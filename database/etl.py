@@ -59,7 +59,12 @@ def cast_numeric(value, dtype=float):
         value = stripped
 
     try:
-        result = dtype(value)
+        # For int casting, route through float first so "0.0" / "846.0"
+        # style strings (common in pandas-exported CSVs) parse correctly.
+        if dtype is int:
+            result = int(float(value))
+        else:
+            result = dtype(value)
     except (ValueError, TypeError):
         return None
 
@@ -160,18 +165,24 @@ def map_race_result_row(row: dict) -> dict:
     }
 
 
-def map_qualifying_row(row: dict) -> dict:
+def map_qualifying_row(row: dict, fallback_year: int | None = None) -> dict:
     """Map a raw CSV row to ``qualifying_results`` table column names and types.
 
     Reads from ``csv.DictReader`` output.  Any key that starts with
-    ``"Unnamed"`` is silently dropped before mapping — sprint qualifying CSVs
-    include an ``Unnamed: 0`` pandas index column that must not be forwarded
-    to the database.
+    ``"Unnamed"`` is silently dropped before mapping — 2022/2023 qualifying CSVs
+    include an ``Unnamed: 0`` pandas index column.
+
+    Handles two historical column-name variants:
+    - 2019–2021 files use ``position`` (lowercase) and have no ``year`` column.
+      Pass ``fallback_year`` (extracted from the filename) for those files.
+    - 2022+ files use ``Position`` (capitalised) and include a ``year`` column.
 
     Parameters
     ----------
     row:
         Raw dict from :class:`csv.DictReader`.
+    fallback_year:
+        Year to use when the CSV has no ``year`` column (2019–2021 files).
 
     Returns
     -------
@@ -181,13 +192,19 @@ def map_qualifying_row(row: dict) -> dict:
     # Drop any Unnamed index columns produced by pandas CSV exports
     cleaned: dict = {k: v for k, v in row.items() if not k.startswith("Unnamed")}
 
+    # Handle both capitalised (2022+) and lowercase (2019–2021) position column
+    position_val = cleaned.get("Position") or cleaned.get("position")
+
+    # Use file-level year when the CSV has no year column
+    year_val = cleaned.get("year") or fallback_year
+
     return {
         "raceId":           cast_numeric(cleaned.get("raceId"), int),
-        "year":             cast_numeric(cleaned.get("year"), int),
+        "year":             cast_numeric(year_val, int),
         "kaggle_driver_id": cast_numeric(cleaned.get("kaggle_driver_id"), int),
         "team":             str(cleaned.get("Team", "") or "").strip(),
         "track":            str(cleaned.get("Track", "") or "").strip(),
-        "position":         cast_numeric(cleaned.get("Position"), int),
+        "position":         cast_numeric(position_val, int),
         "participated_q2":  cast_numeric(cleaned.get("participated_q2"), int),
         "participated_q3":  cast_numeric(cleaned.get("participated_q3"), int),
         "q1_time_sec":      cast_numeric(cleaned.get("q1_time_sec"), float),
@@ -328,19 +345,18 @@ def load_qualifying_results(conn, data_root: Path) -> None:
     :func:`map_qualifying_row`, and upserts into ``qualifying_results``
     using ``(raceId, kaggle_driver_id)`` as the conflict key.
 
-    Per-file inserted/skipped counts are logged at INFO level.  If a file
-    raises any exception it is logged at WARNING level and processing
-    continues with the next file.
+    Handles 2019–2021 files that have no ``year`` column by extracting the
+    year from the filename (e.g. ``race_quali_2019.csv`` → 2019).
 
     Parameters
     ----------
     conn:
         An open :mod:`sqlite3` connection with the schema already applied.
     data_root:
-        Root directory of the processed datasets.  The qualifying files are
-        expected under ``data_root / "quali_both_result(processed)"``.
+        Root directory of the processed datasets.
     """
     import csv
+    import re
 
     base_dir = data_root / "quali_both_result(processed)"
     patterns = ["race_quali_*.csv"]
@@ -353,11 +369,17 @@ def load_qualifying_results(conn, data_root: Path) -> None:
         )
         return
 
+    year_pattern = re.compile(r"race_quali_(\d{4})\.csv$")
+
     for path in files:
+        # Extract year from filename as fallback for 2019–2021 files
+        m = year_pattern.search(path.name)
+        fallback_year = int(m.group(1)) if m else None
+
         try:
             with open(path, newline="", encoding="utf-8") as fh:
                 reader = csv.DictReader(fh)
-                rows = [map_qualifying_row(row) for row in reader]
+                rows = [map_qualifying_row(row, fallback_year=fallback_year) for row in reader]
 
             inserted, skipped = upsert_rows(
                 conn,
@@ -744,6 +766,61 @@ def _load_circuits(conn, data_root: Path) -> None:
     )
 
 
+def _seed_missing_race_stubs(conn, data_root: Path) -> None:
+    """Insert stub rows for any raceIds present in result CSVs but absent
+    from the ``races`` table (e.g. 2025 races not yet in races_with_weather.csv).
+
+    Stubs have NULL for round, circuit_id, and race_date.
+    Weather rows default to dry (rain=0, sunny=1).
+    """
+    # Collect all raceIds already in the races table
+    existing = {r[0] for r in conn.execute("SELECT raceId FROM races").fetchall()}
+
+    # Scan all race result CSVs for raceIds not yet in the table
+    base_dir = data_root / "main_race_result(processed)"
+    patterns = [
+        "formula1_*season_raceResults.csv",
+        "Formula1_*Season_RaceResults.csv",
+    ]
+    missing: dict[int, dict] = {}
+    for filepath in discover_files(str(base_dir), patterns):
+        try:
+            with open(filepath, newline="", encoding="utf-8") as fh:
+                for row in csv.DictReader(fh):
+                    rid = cast_numeric(row.get("raceId"), int)
+                    if rid is None or rid in existing or rid in missing:
+                        continue
+                    missing[rid] = {
+                        "raceId":     rid,
+                        "year":       cast_numeric(row.get("year"), int),
+                        "round":      None,
+                        "circuit_id": None,
+                        "race_name":  str(row.get("Track", "") or "").strip() + " Grand Prix",
+                        "race_date":  None,
+                    }
+        except Exception as exc:
+            logger.warning("_seed_missing_race_stubs: skipping %s — %s", filepath, exc)
+
+    if not missing:
+        return
+
+    conn.executemany(
+        "INSERT OR IGNORE INTO races "
+        "(raceId, year, round, circuit_id, race_name, race_date) "
+        "VALUES (:raceId, :year, :round, :circuit_id, :race_name, :race_date)",
+        list(missing.values()),
+    )
+    conn.executemany(
+        "INSERT OR IGNORE INTO weather (raceId, year, rain, sunny) "
+        "VALUES (?, ?, 0, 1)",
+        [(r["raceId"], r["year"]) for r in missing.values()],
+    )
+    logger.info(
+        "_seed_missing_race_stubs: inserted %d stub race(s) missing from races_with_weather.csv",
+        len(missing),
+    )
+
+
 # ---------------------------------------------------------------------------
 # 5  run_etl  (orchestrator)
 # ---------------------------------------------------------------------------
@@ -789,6 +866,9 @@ def run_etl(db_path: Path, data_root: Path) -> None:
         # Load reference tables first (no FK dependencies on result tables)
         load_reference_tables(conn, data_root)
         load_drivers(conn, data_root)
+        # Seed any race stubs missing from races_with_weather.csv
+        # (e.g. 2025 races not yet in the Kaggle weather file)
+        _seed_missing_race_stubs(conn, data_root)
         load_race_results(conn, data_root)
         load_qualifying_results(conn, data_root)
         load_sprint_results(conn, data_root)
